@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: pena-rodrigo
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
+title: Pena's Lab
+subtitle: Computational Neuroscience Lab
+description: OPENING SOON (in construction).
+header: images/neurons_front.jpeg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@pena-rodrigo.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: rfdop20@gmail.com
+  orcid: 0000-0002-2037-9746
+  google-scholar: 17avyRAAAAAJ&hl
   github: pena-rodrigo
-  twitter: pena-rodrigo
-  youtube: pena-rodrigo
+  twitter: rfo_pena
+  youtube: UCu3Y36hNzzbpAFALGoN4itA
 
 ### jekyll settings
 
