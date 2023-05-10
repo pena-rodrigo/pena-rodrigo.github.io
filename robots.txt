@@ -1,1 +1,1 @@
-Sitemap: /penalab/sitemap.xml
+Sitemap: /sitemap.xml
