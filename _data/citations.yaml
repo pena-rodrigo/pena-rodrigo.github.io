@@ -1,5 +1,206 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:35869381
+  title: 'Temporal filters in response to presynaptic spike trains: interplay of cellular,
+    synaptic and short-term plasticity time scales.'
+  authors:
+  - Yugarshi Mondal
+  - Rodrigo F O Pena
+  - Horacio G Rotstein
+  publisher: Journal of computational neuroscience
+  date: '2022-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35869381
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35653072
+  title: 'Oscillations and variability in neuronal systems: interplay of autonomous
+    transient dynamics and fast deterministic fluctuations.'
+  authors:
+  - Rodrigo F O Pena
+  - Horacio G Rotstein
+  publisher: Journal of computational neuroscience
+  date: '2022-06-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35653072
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:35038010
+  title: 'The voltage and spiking responses of subthreshold resonant neurons to structured
+    and fluctuating inputs: persistence and loss of resonance and variability.'
+  authors:
+  - Rodrigo F O Pena
+  - Horacio G Rotstein
+  publisher: Biological cybernetics
+  date: '2022-01-17'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35038010
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32290351
+  title: Optimal Interplay between Synaptic Strengths and Network Structure Enhances
+    Activity Fluctuations and Information Propagation in Hierarchical Modular Networks.
+  authors:
+  - Rodrigo F O Pena
+  - Vinicius Lima
+  - Renan O Shimoura
+  - "Jo\xE3o Paulo Novato"
+  - Antonio C Roque
+  publisher: Brain sciences
+  date: '2020-04-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32290351
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:32285725
+  title: Modeling Hippocampal CA1 Gabaergic Synapses of Audiogenic Rats.
+  authors:
+  - Rodrigo F O Pena
+  - Cesar Celis Ceballos
+  - "J\xFAnia Lara De Deus"
+  - Antonio Carlos Roque
+  - Norberto Garcia-Cairasco
+  - "Ricardo Maur\xEDcio Le\xE3o"
+  - Alexandra Olimpio Siqueira Cunha
+  publisher: International journal of neural systems
+  date: '2020-04-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32285725
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:31675799
+  title: Asymmetrical voltage response in resonant neurons shaped by nonlinearities.
+  authors:
+  - R F O Pena
+  - V Lima
+  - R O Shimoura
+  - C C Ceballos
+  - H G Rotstein
+  - A C Roque
+  publisher: Chaos (Woodbury, N.Y.)
+  date: '2019-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31675799
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:30427561
+  title: Firing properties of ventral medullary respiratory neurons in sino-aortic
+    denervated rats.
+  authors:
+  - Mateus R Amorim
+  - Rodrigo F O Pena
+  - George M P R Souza
+  - Leni G H Bonagamba
+  - "Ant\xF4nio C Roque"
+  - Benedito H Machado
+  publisher: Experimental physiology
+  date: '2018-12-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30427561
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29991737
+  title: Intrinsic and synaptic properties of hippocampal CA1 pyramidal neurons of
+    the Wistar Audiogenic Rat (WAR) strain, a genetic model of epilepsy.
+  authors:
+  - Alexandra Olimpio Siqueira Cunha
+  - Cesar Celis Ceballos
+  - "J\xFAnia Lara de Deus"
+  - Rodrigo Felipe de Oliveira Pena
+  - "Jos\xE9 Antonio Cortes de Oliveira"
+  - Antonio Carlos Roque
+  - Norberto Garcia-Cairasco
+  - "Ricardo Maur\xEDcio Le\xE3o"
+  publisher: Scientific reports
+  date: '2018-07-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29991737
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29923159
+  title: 'Dynamics of spontaneous activity in random networks with multiple neuron
+    subtypes and synaptic noise : Spontaneous activity in networks with synaptic noise.'
+  authors:
+  - Rodrigo F O Pena
+  - Michael A Zaks
+  - Antonio C Roque
+  publisher: Journal of computational neuroscience
+  date: '2018-06-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29923159
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29758644
+  title: Interplay of activation kinetics and the derivative conductance determines
+    resonance properties of neurons.
+  authors:
+  - Rodrigo F O Pena
+  - Cesar C Ceballos
+  - Vinicius Lima
+  - Antonio C Roque
+  publisher: Physical review. E
+  date: '2018-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29758644
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29551968
+  title: Self-Consistent Scheme for Spike-Train Power Spectra in Heterogeneous Sparse
+    Networks.
+  authors:
+  - Rodrigo F O Pena
+  - Sebastian Vellmer
+  - Davide Bernardi
+  - Antonio C Roque
+  - Benjamin Lindner
+  publisher: Frontiers in computational neuroscience
+  date: '2018-03-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29551968
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:29380651
+  title: Non-Decaying postsynaptics potentials and delayed spikes in hippocampal pyramidal
+    neurons generated by a zero slope conductance created by the persistent Na
+  authors:
+  - Cesar C Ceballos
+  - Rodrigo F O Pena
+  - "Ant\xF4nio C Roque"
+  - "Ricardo M Le\xE3o"
+  publisher: Channels (Austin, Tex.)
+  date: '2018-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29380651
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:27047367
+  title: Mechanisms of Self-Sustained Oscillatory States in Hierarchical Modular Networks
+    with Mixtures of Electrophysiological Cell Types.
+  authors:
+  - Petar Tomov
+  - Rodrigo F O Pena
+  - Antonio C Roque
+  - Michael A Zaks
+  publisher: Frontiers in computational neuroscience
+  date: '2016-03-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27047367
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:25228879
+  title: Sustained oscillations, irregular firing, and chaotic dynamics in hierarchical
+    modular networks with mixtures of electrophysiological cell types.
+  authors:
+  - Petar Tomov
+  - Rodrigo F O Pena
+  - Michael A Zaks
+  - Antonio C Roque
+  publisher: Frontiers in computational neuroscience
+  date: '2014-09-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25228879
+  term: PENA, RFO[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -131,5 +332,18 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
-  - id: doi:10.1007/s10827-022-00819-7
-   file: sources_pena.yaml
+- id: doi:10.1142/S0129065720500227
+  title: Modeling Hippocampal CA1 Gabaergic Synapses of Audiogenic Rats
+  authors:
+  - Rodrigo F. O. Pena
+  - Cesar Celis Ceballos
+  - "J\xFAnia Lara De Deus"
+  - Antonio Carlos Roque
+  - Norberto Garcia-Cairasco
+  - "Ricardo Maur\xEDcio Le\xE3o"
+  - Alexandra Olimpio Siqueira Cunha
+  publisher: International Journal of Neural Systems
+  date: '2020-04-14'
+  link: https://doi.org/gr72ck
+  plugin: sources.py
+  file: sources_pena.yaml
