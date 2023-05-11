@@ -195,8 +195,23 @@
   date: '2018-12-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30427561
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: Sino-aortic denervation (SAD) in rats alters breathing patterns without
+    affecting sympathetic activity or arterial pressure. We observed prolonged inspiration,
+    increased variability in late-inspiratory neurons, and reduced frequency in pre-inspiratory/inspiratory
+    neurons. These findings suggest a timing imbalance in the respiratory network
+    of SAD rats, impacting presympathetic neuron modulation after baroreceptor afferent
+    removal.
+  image: ../images/expphysiol.jpg
+  buttons:
+  - type: website
+    link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/EP087150
+  tags:
+  - autonomic nervous system
+  - breathing
+  - respiration
 - id: pubmed:29991737
   title: Intrinsic and synaptic properties of hippocampal CA1 pyramidal neurons of
     the Wistar Audiogenic Rat (WAR) strain, a genetic model of epilepsy.
@@ -213,8 +228,23 @@
   date: '2018-07-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29991737
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: In our study on epilepsy, we examined the electrical properties and
+    synaptic transmission in CA1 pyramidal neurons of the dorsal hippocampus in a
+    genetic model, the Wistar Audiogenic Rat (WARs). We found reduced GABAergic neurotransmission
+    in the dorsal hippocampus of WARs, leading to increased susceptibility to limbic
+    seizures observed during audiogenic kindling.
+  image: ../images/scirep.jpg
+  buttons:
+  - type: website
+    link: https://www.nature.com/articles/s41598-018-28725-y
+  tags:
+  - Wistar audiogenic rats
+  - CA1 pyramidal cells
+  - inhibitory postsynaptic currents
+  - interevent interval
 - id: pubmed:29923159
   title: 'Dynamics of spontaneous activity in random networks with multiple neuron
     subtypes and synaptic noise : Spontaneous activity in networks with synaptic noise.'
@@ -226,8 +256,28 @@
   date: '2018-06-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29923159
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: We studied spontaneous cortical population activity in networks of
+    spiking neurons. By adjusting inhibitory synaptic strength and synaptic noise,
+    we identified different activity patterns. Noise transformed transient patterns
+    into persistent ones. Networks with strong inhibition and moderate noise showed
+    intermittent switches between oscillatory and quiescent states, resembling cortical
+    states. Our findings reveal mechanisms underlying cortical activity at multiple
+    scales.
+  image: ../images/jcompneuro18.jpg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://senselab.med.yale.edu/ModelDB/showmodel?model=263956#tabs-1
+  - type: website
+    link: https://link.springer.com/article/10.1007/s10827-018-0688-6
+  tags:
+  - Cortical oscillations
+  - Synaptic noise
+  - Up-down states
+  - Oscillations
 - id: pubmed:29758644
   title: Interplay of activation kinetics and the derivative conductance determines
     resonance properties of neurons.
@@ -240,8 +290,25 @@
   date: '2018-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29758644
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: "Resonance in neurons with hyperpolarization-activated current (Ih)\
+    \ is determined by the biophysical properties of Ih, specifically the derivative\
+    \ conductance (GDer) and current activation kinetics (\u03C4h). The presence and\
+    \ frequency of resonance are controlled by GDer and \u03C4h, and their increase\
+    \ leads to enhanced resonance. Voltage dependence of GDer makes resonance voltage-dependent.\
+    \ These findings provide insights into predicting and explaining resonance properties\
+    \ in neurons with Ih."
+  image: ../images/pre2018.jpg
+  buttons:
+  - type: website
+    link: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.042408
+  tags:
+  - CA1 pyramidal cells
+  - Resonance
+  - dynamical systems
+  - chord conductance
 - id: pubmed:29551968
   title: Self-Consistent Scheme for Spike-Train Power Spectra in Heterogeneous Sparse
     Networks.
@@ -255,8 +322,21 @@
   date: '2018-03-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29551968
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: We determine numerically from an iterative single-neuron simulation
+    spontaneous cortical population activity in networks of spiking neurons with heterogeneous
+    populations of different cellular and connection parameters.
+  image: ../images/scheme.jpg
+  buttons:
+  - type: website
+    link: https://www.frontiersin.org/articles/10.3389/fncom.2018.00009/full
+  tags:
+  - spike-train statistics
+  - neural noise
+  - stochastic models
+  - complex networks
 - id: pubmed:29380651
   title: Non-Decaying postsynaptics potentials and delayed spikes in hippocampal pyramidal
     neurons generated by a zero slope conductance created by the persistent Na
@@ -269,8 +349,23 @@
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29380651
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: The persistent sodium current (INaP) prolongs EPSP decay by increasing
+    the membrane time constant. In the zero slope conductance region, non-decaying
+    EPSPs are observed in CA1 hippocampal pyramidal cells. These EPSPs and delayed
+    spikes are abolished by Na+ channel block and occur in response to small amplitude
+    aEPSCs. This suggests that INaP enhances synaptic integration in distal dendritic
+    regions.
+  image: ../images/channels.jpg
+  buttons:
+  - type: website
+    link: https://www.tandfonline.com/doi/full/10.1080/19336950.2018.1433940
+  tags:
+  - CA1 pyramidal cells
+  - chord conductance
+  - slope conductance
 - id: pubmed:27047367
   title: Mechanisms of Self-Sustained Oscillatory States in Hierarchical Modular Networks
     with Mixtures of Electrophysiological Cell Types.
