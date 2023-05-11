@@ -11,7 +11,7 @@ This website lab is under construction!
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This website lab is under construction!
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/res.jpg"
   link="research"
   title="Our Research"
   text=text
