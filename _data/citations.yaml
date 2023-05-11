@@ -39,8 +39,26 @@
   date: '2022-06-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35653072
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: We investigate how rapidly fluctuating signals interact with neuronal
+    properties, generating varied and coherent responses. Using linear and non-linear
+    models, we explore the effects of piecewise constant inputs. We find that sustained
+    oscillations and variability arise from the interaction between inputs and intrinsic
+    cell dynamics, independent of input stochasticity.
+  image: ../images/variability.jpg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/BioDatanamics-Lab/impedance_input_dependent
+  - type: website
+    link: https://link.springer.com/article/10.1007/s10827-022-00819-7
+  tags:
+  - Rhythms
+  - Neuronal irregularities
+  - Resonance
+  - Piecewise constant inputs
 - id: pubmed:35038010
   title: 'The voltage and spiking responses of subthreshold resonant neurons to structured
     and fluctuating inputs: persistence and loss of resonance and variability.'
@@ -51,8 +69,26 @@
   date: '2022-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35038010
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: We analyze neuronal responses to oscillatory currents and synaptic-like
+    inputs. Resonant cells exhibit selective resonance. Conductance-based inputs are
+    attenuated compared to current-based inputs. Variability arises from different
+    input orderings. Poisson-distributed synaptic inputs show attenuated responses.
+    Our findings contribute to understanding oscillatory activity and network resonance.
+  image: ../images/shuff.jpg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/BioDatanamics-Lab/impedance_input_dependent
+  - type: website
+    link: https://link.springer.com/article/10.1007/s00422-021-00919-0
+  tags:
+  - Rhythms
+  - Oscillations
+  - Synaptic inputs
+  - Resonance
 - id: pubmed:32290351
   title: Optimal Interplay between Synaptic Strengths and Network Structure Enhances
     Activity Fluctuations and Information Propagation in Hierarchical Modular Networks.
@@ -66,8 +102,25 @@
   date: '2020-04-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32290351
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: We study activity propagation in modular spiking networks. Optimal
+    information flow occurs with increased synaptic strength or number of modules.
+    Population-level and pairwise information propagation show different patterns.
+    Increasing synaptic strength and modules enhance information transmission.
+  image: ../images/brainsci.jpg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: github.com/ViniciusLima94
+  - type: website
+    link: https://www.mdpi.com/2076-3425/10/4/228?type=check_update&version=2
+  tags:
+  - hierarchical modular networks
+  - cortical network models
+  - neural information processing
+  - transfer entropy
 - id: pubmed:32285725
   title: Modeling Hippocampal CA1 Gabaergic Synapses of Audiogenic Rats.
   authors:
@@ -82,8 +135,23 @@
   date: '2020-04-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32285725
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: WARs, genetically susceptible to sound-induced seizures, exhibit different
+    GABAergic inhibitory postsynaptic current (IPSC) distributions compared to Wistar
+    rats. Our computational model suggests two populations of GABAergic synapses in
+    WARs, with reduced release frequency in a subset. This finding may contribute
+    to their seizure susceptibility.
+  image: ../images/neuron_ijns.jpg
+  buttons:
+  - type: website
+    link: https://www.worldscientific.com/doi/abs/10.1142/S0129065720500227
+  tags:
+  - Wistar audiogenic rats
+  - CA1 pyramidal cells
+  - inhibitory postsynaptic currents
+  - interevent interval
 - id: pubmed:31675799
   title: Asymmetrical voltage response in resonant neurons shaped by nonlinearities.
   authors:
@@ -97,8 +165,22 @@
   date: '2019-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31675799
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: High-amplitude oscillatory currents induce asymmetric voltage responses
+    in neurons due to nonlinearities in ionic currents and the voltage equation. Geometrical
+    factors and time-scale separation contribute to these asymmetries. Surprising
+    frequency-dependent patterns emerge in the gating variables of the currents. Our
+    findings shed light on the ionic mechanisms involved in oscillatory information
+    processing by neurons.
+  image: ../images/chaos.jpg
+  buttons:
+  - type: website
+    link: https://pubs.aip.org/aip/cha/article/29/10/103135/282691/Asymmetrical-voltage-response-in-resonant-neurons
+  tags:
+  - dynamical systems
+  - resonance
 - id: pubmed:30427561
   title: Firing properties of ventral medullary respiratory neurons in sino-aortic
     denervated rats.
