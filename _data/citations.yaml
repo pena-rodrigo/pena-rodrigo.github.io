@@ -10,7 +10,7 @@
   publisher: Journal of computational neuroscience
   date: '2022-07-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35869381
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: sources.py
   file: sources_pena.yaml
 - id: pubmed:35653072
@@ -22,7 +22,7 @@
   publisher: Journal of computational neuroscience
   date: '2022-06-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35653072
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:35038010
@@ -34,7 +34,7 @@
   publisher: Biological cybernetics
   date: '2022-01-17'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35038010
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32290351
@@ -49,7 +49,7 @@
   publisher: Brain sciences
   date: '2020-04-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32290351
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32285725
@@ -65,7 +65,7 @@
   publisher: International journal of neural systems
   date: '2020-04-14'
   link: https://www.ncbi.nlm.nih.gov/pubmed/32285725
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:31675799
@@ -80,7 +80,7 @@
   publisher: Chaos (Woodbury, N.Y.)
   date: '2019-10-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31675799
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:30427561
@@ -96,7 +96,7 @@
   publisher: Experimental physiology
   date: '2018-12-11'
   link: https://www.ncbi.nlm.nih.gov/pubmed/30427561
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:29991737
@@ -114,7 +114,7 @@
   publisher: Scientific reports
   date: '2018-07-10'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29991737
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:29923159
@@ -127,7 +127,7 @@
   publisher: Journal of computational neuroscience
   date: '2018-06-19'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29923159
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:29758644
@@ -141,7 +141,7 @@
   publisher: Physical review. E
   date: '2018-04-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29758644
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:29551968
@@ -156,7 +156,7 @@
   publisher: Frontiers in computational neuroscience
   date: '2018-03-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29551968
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:29380651
@@ -170,7 +170,7 @@
   publisher: Channels (Austin, Tex.)
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29380651
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:27047367
@@ -184,7 +184,7 @@
   publisher: Frontiers in computational neuroscience
   date: '2016-03-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27047367
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:25228879
@@ -198,7 +198,7 @@
   publisher: Frontiers in computational neuroscience
   date: '2014-09-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25228879
-  term: PENA, RFO[Author]
+  term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: pubmed.py
   file: pubmed.yaml
 - id: doi:10.1093/nar/gkad289
