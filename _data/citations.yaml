@@ -378,8 +378,26 @@
   date: '2016-03-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/27047367
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: In a diverse neuron network, global activity fluctuates between intense
+    periods and low levels, resembling cortical "up" and "down" states. The distribution
+    of membrane recovery variable plays a key role in initiating and stopping activity.
+    Neuron behavior is more influenced by the presynaptic environment than their formal
+    types.
+  image: ../images/frontcompneurosci16.jpg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://senselab.med.yale.edu/ModelDB/showmodel?model=263956#tabs-1
+  - type: website
+    link: https://www.frontiersin.org/articles/10.3389/fncom.2016.00023/full
+  tags:
+  - Cortical oscillations
+  - self-sustained activity
+  - Up-down states
+  - Oscillations
 - id: pubmed:25228879
   title: Sustained oscillations, irregular firing, and chaotic dynamics in hierarchical
     modular networks with mixtures of electrophysiological cell types.
@@ -392,5 +410,24 @@
   date: '2014-09-02'
   link: https://www.ncbi.nlm.nih.gov/pubmed/25228879
   term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: The cerebral cortex exhibits spontaneous neural activity without external
+    input. Using computer simulations, we studied the mechanisms behind this activity
+    in hierarchical modular networks. Our models replicated experimental observations
+    of irregular firing and oscillatory patterns. The activity duration depended on
+    initial conditions and network characteristics, highlighting the impact of both
+    structure and neuron types on cortical activity.
+  image: ../images/frontcompneuro14.jpg
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://senselab.med.yale.edu/ModelDB/showmodel?model=263956#tabs-1
+  - type: website
+    link: https://www.frontiersin.org/articles/10.3389/fncom.2014.00103/full
+  tags:
+  - Cortical oscillations
+  - self-sustained activity
+  - Up-down states
+  - hierarchical modular networks
