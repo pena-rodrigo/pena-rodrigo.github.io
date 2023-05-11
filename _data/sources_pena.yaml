@@ -84,3 +84,82 @@
   tags:
     - dynamical systems
     - resonance
+    
+- id: pubmed:30427561
+  type: paper
+  description: Sino-aortic denervation (SAD) in rats alters breathing patterns without affecting sympathetic activity or arterial pressure. We observed prolonged inspiration, increased variability in late-inspiratory neurons, and reduced frequency in pre-inspiratory/inspiratory neurons. These findings suggest a timing imbalance in the respiratory network of SAD rats, impacting presympathetic neuron modulation after baroreceptor afferent removal.
+  image: ../images/expphysiol.jpg
+  buttons:
+    - type: website
+      link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/EP087150
+  tags:
+    - autonomic nervous system
+    - breathing
+    - respiration
+    
+- id: pubmed:29991737
+  type: paper
+  description: In our study on epilepsy, we examined the electrical properties and synaptic transmission in CA1 pyramidal neurons of the dorsal hippocampus in a genetic model, the Wistar Audiogenic Rat (WARs). We found reduced GABAergic neurotransmission in the dorsal hippocampus of WARs, leading to increased susceptibility to limbic seizures observed during audiogenic kindling.
+  image: ../images/scirep.jpg
+  buttons:
+    - type: website
+      link: https://www.nature.com/articles/s41598-018-28725-y
+  tags:
+    - Wistar audiogenic rats
+    - CA1 pyramidal cells
+    - inhibitory postsynaptic currents
+    - interevent interval
+    
+- id: pubmed:29923159
+  type: paper
+  description: We studied spontaneous cortical population activity in networks of spiking neurons. By adjusting inhibitory synaptic strength and synaptic noise, we identified different activity patterns. Noise transformed transient patterns into persistent ones. Networks with strong inhibition and moderate noise showed intermittent switches between oscillatory and quiescent states, resembling cortical states. Our findings reveal mechanisms underlying cortical activity at multiple scales.
+  image: ../images/jcompneuro18.jpg
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://senselab.med.yale.edu/ModelDB/showmodel?model=263956#tabs-1
+    - type: website
+      link: https://link.springer.com/article/10.1007/s10827-018-0688-6
+  tags:
+    - Cortical oscillations 
+    - Synaptic noise 
+    - Up-down states 
+    - Oscillations 
+ 
+- id: pubmed:29758644
+  type: paper
+  description: Resonance in neurons with hyperpolarization-activated current (Ih) is determined by the biophysical properties of Ih, specifically the derivative conductance (GDer) and current activation kinetics (τh). The presence and frequency of resonance are controlled by GDer and τh, and their increase leads to enhanced resonance. Voltage dependence of GDer makes resonance voltage-dependent. These findings provide insights into predicting and explaining resonance properties in neurons with Ih.
+  image: ../images/pre2018.jpg
+  buttons:
+    - type: website
+      link: https://journals.aps.org/pre/abstract/10.1103/PhysRevE.97.042408
+  tags:
+    - CA1 pyramidal cells
+    - Resonance
+    - dynamical systems
+    - chord conductance
+
+- id: pubmed:29551968
+  type: paper
+  description: We determine numerically from an iterative single-neuron simulation spontaneous cortical population activity in networks of spiking neurons with heterogeneous populations of different cellular and connection parameters.
+  image: ../images/scheme.jpg
+  buttons:
+    - type: website
+      link: https://www.frontiersin.org/articles/10.3389/fncom.2018.00009/full
+  tags:
+    - spike-train statistics 
+    - neural noise 
+    - stochastic models 
+    - complex networks 
+    
+- id: pubmed:29380651
+  type: paper
+  description: The persistent sodium current (INaP) prolongs EPSP decay by increasing the membrane time constant. In the zero slope conductance region, non-decaying EPSPs are observed in CA1 hippocampal pyramidal cells. These EPSPs and delayed spikes are abolished by Na+ channel block and occur in response to small amplitude aEPSCs. This suggests that INaP enhances synaptic integration in distal dendritic regions.
+  image: ../images/channels.jpg
+  buttons:
+    - type: website
+      link: https://www.tandfonline.com/doi/full/10.1080/19336950.2018.1433940
+  tags:
+    - CA1 pyramidal cells
+    - chord conductance
+    - slope conductance  
