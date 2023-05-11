@@ -3,7 +3,7 @@
 
 # Pena's Lab
 
-This website is under construction!
+This website lab is under construction!
 
 {% include section.html %}
 
