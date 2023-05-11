@@ -2,11 +2,11 @@
   type: paper
   description: We investigate how neurons filter and code sensory inputs using temporal filters. Short-term plasticity (STP) and various processes influence these filters. We develop mathematical tools to understand their generation and extend the findings to complex networks.
   date: 2022-07-23
-  image: https://link.springer.com/article/10.1007/s10827-022-00822-y/figures/1
+  image: https://github.com/pena-rodrigo/pena-rodrigo.github.io/blob/main/images/filters.png
   buttons:
     - type: source
       text: Manuscript Source
-      link: https://github.com/BioDatanamics-Lab/temporal_filters_p20_01.
+      link: https://github.com/BioDatanamics-Lab/temporal_filters_p20_01
     - type: website
       link: https://link.springer.com/article/10.1007/s10827-022-00822-y
   tags:
