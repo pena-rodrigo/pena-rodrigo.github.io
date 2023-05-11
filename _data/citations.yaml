@@ -332,18 +332,3 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1142/S0129065720500227
-  title: Modeling Hippocampal CA1 Gabaergic Synapses of Audiogenic Rats
-  authors:
-  - Rodrigo F. O. Pena
-  - Cesar Celis Ceballos
-  - "J\xFAnia Lara De Deus"
-  - Antonio Carlos Roque
-  - Norberto Garcia-Cairasco
-  - "Ricardo Maur\xEDcio Le\xE3o"
-  - Alexandra Olimpio Siqueira Cunha
-  publisher: International Journal of Neural Systems
-  date: '2020-04-14'
-  link: https://doi.org/gr72ck
-  plugin: sources.py
-  file: sources_pena.yaml
