@@ -11,8 +11,8 @@
   date: '2022-07-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35869381
   term: PENA, RFO[Author]
-  plugin: pubmed.py
-  file: pubmed.yaml
+  plugin: sources.py
+  file: sources_pena.yaml
 - id: pubmed:35653072
   title: 'Oscillations and variability in neuronal systems: interplay of autonomous
     transient dynamics and fast deterministic fluctuations.'
