@@ -13,7 +13,7 @@ Find below some of the work we do. A complete list of publications can be found 
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="The voltage and spiking responses of subthreshold resonant neurons to structured and fluctuating inputs: persistence and loss of resonance and variability" style="rich" %}
 
 {% include section.html %}
 
