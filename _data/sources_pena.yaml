@@ -1,16 +1,15 @@
 - id: pubmed:35869381
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description: We investigate how neurons filter and code sensory inputs using temporal filters. Short-term plasticity (STP) and various processes influence these filters. We develop mathematical tools to understand their generation and extend the findings to complex networks.
+  date: 2022-07-23
+  image: https://link.springer.com/article/10.1007/s10827-022-00822-y/figures/1
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
     - type: source
       text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
+      link: https://github.com/BioDatanamics-Lab/temporal_filters_p20_01.
     - type: website
-      link: http://manubot.org/
+      link: https://link.springer.com/article/10.1007/s10827-022-00822-y
   tags:
-    - open science
-    - collaboration
+    - Band-pass temporal filter
+    - Short-term synaptic dynamics
+    - Temporal resonance
