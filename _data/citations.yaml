@@ -18,7 +18,7 @@
     filters. Short-term plasticity (STP) and various processes influence these filters.
     We develop mathematical tools to understand their generation and extend the findings
     to complex networks.
-  image: https://github.com/pena-rodrigo/pena-rodrigo.github.io/blob/main/images/filters.png
+  image: https://github.com/pena-rodrigo/pena-rodrigo.github.io/blob/be67cb639091afdc3bdd7b7096823e832133885b/images/filters.jpg
   buttons:
   - type: source
     text: Manuscript Source
