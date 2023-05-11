@@ -8,11 +8,26 @@
   - Rodrigo F O Pena
   - Horacio G Rotstein
   publisher: Journal of computational neuroscience
-  date: '2022-07-23'
+  date: '2020-12-04'
   link: https://www.ncbi.nlm.nih.gov/pubmed/35869381
   term: PENA, RFO[Author] AND PENA, RF[Author]
   plugin: sources.py
   file: sources_pena.yaml
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
 - id: pubmed:35653072
   title: 'Oscillations and variability in neuronal systems: interplay of autonomous
     transient dynamics and fast deterministic fluctuations.'
