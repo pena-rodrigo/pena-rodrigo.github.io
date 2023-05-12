@@ -3,7 +3,7 @@
 
 # Pena's Lab
 
-This website lab is under construction!
+Welcome!! We apologize but this website is still under construction!
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ This website lab is under construction!
 
 {% capture text %}
 
-This website lab is under construction!
+Our research focuses on the computational modeling of ion channels, synapses, neurons, networks, and systems which involves many spatial scales and how they interact.
 
 {%
   include button.html
