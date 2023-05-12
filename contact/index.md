@@ -28,7 +28,7 @@ We will open soon at the [Biological Sciences Department](https://biology.fau.ed
 
 {%
   include figure.html
-  image="images/fau.jpeg"
+  image="images/fau.jpg"
   caption="John D. MacArthur Campus at Jupiter"
 %}
 
