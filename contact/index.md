@@ -28,8 +28,8 @@ We will open soon at the [Biological Sciences Department](https://biology.fau.ed
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/fau.jpeg"
+  caption="John D. MacArthur Campus at Jupiter"
 %}
 
 {% endcapture %}
@@ -38,8 +38,8 @@ We will open soon at the [Biological Sciences Department](https://biology.fau.ed
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/fau2.jpeg"
+  caption="FAU"
 %}
 
 {% endcapture %}
