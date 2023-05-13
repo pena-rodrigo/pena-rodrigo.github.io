@@ -20,7 +20,7 @@ Thank you for visiting the Lab of Computational Neuroscience at Florida Atlantic
 
 {% capture text %}
 
-Our research focuses on the computational modeling of ion channels, synapses, neurons, networks, and systems which involves many spatial scales and how they interact.
+Our research focuses on the computational modeling of ion channels, synapses, neurons, networks, and systems, unraveling the intricate interactions across various spatial scales. By capturing the essence of neural activity, we decode the mechanisms underlying brain function, shed light on information processing, and explore aspects of neurological disorders. 
 
 {%
   include button.html
