@@ -37,7 +37,6 @@ Our research focuses on the computational modeling of ion channels, synapses, ne
   link="research"
   title="Our Research"
   text=text
-  width="1500px"
 %}
 
 
