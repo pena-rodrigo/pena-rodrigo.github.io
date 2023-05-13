@@ -3,7 +3,17 @@
 
 # Pena's Lab
 
-Welcome!! We apologize but this website is still under construction!
+Welcome to the Lab of Computational Neuroscience at Florida Atlantic University!
+
+We are thrilled to have you visit our website and explore the fascinating world of computational neuroscience. As a cutting-edge research facility, we are dedicated to unraveling the mysteries of the brain and pushing the boundaries of scientific discovery.
+
+At our lab, we harness the power of computational models and advanced technologies to gain insights into the intricate workings of the  brain. We work to develop innovative approaches that bridge the gap between theory and experiment.
+
+Through our research, we aim to deepen our understanding of brain function, neural networks, and cognitive processes. By leveraging computational tools and methods, we strive to shed light on fundamental questions in neuroscience and contribute to the development of novel therapies for neurological disorders.
+
+As you navigate through our website, you will find information about our ongoing projects, publications, and the talented individuals who make up our lab. We are proud to foster a vibrant and inclusive environment that encourages collaboration and nurtures the next generation of computational neuroscientists.
+
+Thank you for visiting the Lab of Computational Neuroscience at Florida Atlantic University. We hope you find inspiration and knowledge within these virtual walls.
 
 {% include section.html %}
 
