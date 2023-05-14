@@ -24,9 +24,6 @@ I am dedicated to providing exceptional supervision and mentorship to students. 
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
 
