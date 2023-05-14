@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Pena's Lab is set to open in August 2023. We are currently seeking assistance at various levels.
+
+As an affirmative action and equal opportunity employer, Pena's Lab, affiliated with Florida Atlantic University, is committed to fostering a diverse team. We strongly encourage women and minority applicants to apply and join Pena's Lab. Your contribution is highly valuable!
 
 {% include section.html %}
 
@@ -18,9 +18,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I am dedicated to providing exceptional supervision and mentorship to students. I am committed to fostering an environment where students can thrive academically and professionally. I prioritize open communication, constructive feedback, and personalized guidance to support each student's individual goals and aspirations. I believe in cultivating a collaborative and inclusive atmosphere that encourages students to explore their scientific interests, develop critical thinking skills, and contribute meaningfully to their research projects. It is my utmost priority to ensure that students receive the necessary resources and support to excel in their academic pursuits. I am genuinely invested in their success and take pride in nurturing the next generation of computational neuroscientists.
 
 {% include section.html %}
 
