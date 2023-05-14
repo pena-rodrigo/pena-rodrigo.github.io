@@ -1,6 +1,6 @@
 ---
 name: You
-image: images/photo.jpg
+image: images/berlin.jpeg
 role: student
 group: alum
 ---
