@@ -7,21 +7,5 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+As a newly established lab, we are excited to embark on a variety of innovative projects that are currently in the preparation phase. If you are eager to learn more about these exciting endeavors, we encourage you to get in touch with us.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filters="group: featured" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
