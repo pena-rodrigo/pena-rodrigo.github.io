@@ -1,7 +1,7 @@
 ---
 ---
 
-# Pena's Lab
+# Pena Lab
 
 Welcome to the Lab of Computational Neuroscience at the Department of Biological Sciences at Florida Atlantic University!
 
