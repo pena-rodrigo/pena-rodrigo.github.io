@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Pena's Lab is set to open in August 2023. We are currently seeking assistance at various levels.
+Pena Lab is set to open in August 2023. We are currently seeking assistance at various levels.
 
 As an affirmative action and equal opportunity employer, the Pena Lab, affiliated with the Biological Sciences Department at Florida Atlantic University, is committed to fostering a diverse team. We strongly encourage women and minority applicants to apply and join the Pena Lab. Your contribution is highly valuable!
 
