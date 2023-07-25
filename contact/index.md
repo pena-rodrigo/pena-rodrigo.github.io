@@ -23,7 +23,7 @@ We will open soon at the [Biological Sciences Department](https://biology.fau.ed
 %}
 
 {% include section.html %}
-
+<!-- 
 {% capture col1 %}
 
 {%
@@ -42,4 +42,4 @@ We will open soon at the [Biological Sciences Department](https://biology.fau.ed
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %} -->
