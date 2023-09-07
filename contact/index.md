@@ -7,13 +7,14 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-We will open soon at the [Biological Sciences Department](https://biology.fau.edu/) at Florida Atlantic University.
+[Biological Sciences Department](https://biology.fau.edu/) at Florida Atlantic University.
+John D. MacArthur Campus, MC-19, Rm 109
 
 {%
   include button.html
   type="email"
-  text="rfdop20@gmail.com"
-  link="rfdop20@gmail.com"
+  text="penar@fau.edu"
+  link="penar@fau.edu"
 %}
 {%
   include button.html
