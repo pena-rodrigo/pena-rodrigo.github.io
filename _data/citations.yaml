@@ -1,5 +1,42 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:37645875
+  title: 'Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation.'
+  authors:
+  - Eric Lowet 
+  - Daniel J Sheehan
+  - Ulises Chialva
+  - Rodrigo De Oliveira Pena
+  - Rebecca A Mount 
+  - Sheng Xiao 
+  - Samuel L Zhou 
+  - Hua-An Tseng 
+  - Howard Gritton 
+  - Sanaya Shroff 
+  - Krishnakanth Kondabolu 
+  - Cyrus Cheung 
+  - Yangyang Wang
+  - Kiryl D Piatkevich 
+  - Edward S Boyden 
+  - Jerome Mertz 
+  - Michael E Hasselmo
+  - Horacio G Rotstein 
+  - Xue Han 
+  publisher: Cell Reports
+  date: '2023-08-29'
+  link: https://pubmed.ncbi.nlm.nih.gov/37540599/
+  term: PENA, RFO[Author] AND PENA, RF[Author]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: Complex vs Single spikes in hippocampus CA1 cells.
+  image: ../images/sscs.jpg
+  buttons:
+  - type: website
+    link: https://www.cell.com/cell-reports/pdf/S2211-1247(23)00917-8.pdf
+  tags:
+  - Hippocampus CA1
+  - Single-cell modeling
 - id: pubmed:35869381
   title: 'Temporal filters in response to presynaptic spike trains: interplay of cellular,
     synaptic and short-term plasticity time scales.'
