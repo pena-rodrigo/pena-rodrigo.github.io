@@ -13,7 +13,7 @@ Find below some of the work we do. A complete list of publications can be found 
 
 ## Highlighted
 
-{% include citation.html lookup="The voltage and spiking responses of subthreshold resonant neurons to structured and fluctuating inputs: persistence and loss of resonance and variability" style="rich" %}
+{% include citation.html lookup="Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation" style="rich" %}
 
 {% include section.html %}
 
