@@ -28,26 +28,31 @@ Selected movies have Public Performance Licensing according to the <a href="http
 <th>Movie</th>
 <th>Date</th>
 <th>Time</th>
+<th>Plot</th>
 </tr>
 <tr>
 <td>Memento</td>
 <td>TBD 15, 2023</td>
 <td>TBD PM</td>
+<td>TBD</td>
 </tr>
 <tr>
 <td>Alice Cares</td>
 <td>TBD 20, 2023</td>
 <td>TBD PM</td>
+<td>TBD</td>
 </tr>
 <tr>
 <td>The brain that wouldn't die</td>
 <td>TBD 25, 2023</td>
 <td>TBD PM</td>
+<td>TBD</td>
 </tr>
 <tr>
 <td>You go to my head</td>
 <td>TBD 2, 2023</td>
 <td>TBD PM</td>
+<td>TBD</td>
 </tr>
 </table>
 </body>
