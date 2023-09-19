@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Art & Culture
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Discuss science and relax
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
