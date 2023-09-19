@@ -34,11 +34,11 @@ Selected movies have Public Performance Licensing according to the <a href="http
 </tr>
 <tr>
 <td>Memento (2000)</td>
-<td>Mystery and Thriller</td>
+<td>Mystery & Thriller</td>
 <td>TBD 15, 2023</td>
 <td>TBD PM</td>
 <td>113 min</td>  
-<td>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2649674/</td>
+<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2649674/"> Link</a></td>
 </tr>
 <tr>
 <td>Alice Cares (2015)</td>
@@ -46,7 +46,7 @@ Selected movies have Public Performance Licensing according to the <a href="http
 <td>TBD 20, 2023</td>
 <td>TBD PM</td>
 <td>80 min</td>    
-<td>https://www.frontiersin.org/articles/10.3389/fpubh.2023.1166120/full</td>
+<td><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1166120/full"> Link</a></td>
 </tr>
 <tr>
 <td>The brain that wouldn't die (1962)</td>
@@ -54,7 +54,7 @@ Selected movies have Public Performance Licensing according to the <a href="http
 <td>TBD 25, 2023</td>
 <td>TBD PM</td>
 <td>71 min</td>  
-<td>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9805622/</td>
+<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9805622/"> Link</a></td>
 </tr>
 <tr>
 <td>You go to my head (2017)</td>
@@ -62,7 +62,7 @@ Selected movies have Public Performance Licensing according to the <a href="http
 <td>TBD 2, 2023</td>
 <td>TBD PM</td>
 <td>116 min</td>  
-<td>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182004/</td>
+<td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182004/"> Link</a></td>
 </tr>
 </table>
 </body>
