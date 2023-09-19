@@ -6,10 +6,12 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Art & Culture
-
-<img src="../images/synaptic_popcorn.png" width="460" height="460">
-
 <html>
+<body>
+<div style="text-align: center;">
+<img src="../images/synaptic_popcorn.png" width="460" height="460">
+</div>
+
 <h1>Upcoming Movie Dates</h1>
 <table border="1">
 <tr>
@@ -38,6 +40,7 @@ nav:
 <td>9:15 PM</td>
 </tr>
 </table>
+</body>
 </html>
 
 
