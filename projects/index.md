@@ -64,6 +64,14 @@ Selected movies have Public Performance Licensing according to the <a href="http
 <td>116 min</td>  
 <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182004/"> Link</a></td>
 </tr>
+<tr>
+<td>Das Kabinett des Doktor Caligari ( The Cabinet of Dr. Caligari ) (1919)</td>
+<td>Silent Horror</td>
+<td>TBD 2, 2023</td>
+<td>TBD PM</td>
+<td>74 min</td>  
+<td>TBD</td>
+</tr>
 </table>
 </body>
 </html>
