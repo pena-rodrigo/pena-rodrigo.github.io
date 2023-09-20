@@ -70,7 +70,7 @@ Selected movies have Public Performance Licensing according to the <a href="http
 <td>TBD 2, 2023</td>
 <td>TBD PM</td>
 <td>74 min</td>  
-<td>TBD</td>
+<td><a href="https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.161.7.1149"> Link</a></td>
 </tr>
 </table>
 </body>
