@@ -1,44 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: pubmed:37645875
-  title: 'The Roles of Potassium and Calcium Currents in the Bistable Firing Transition.'
-  authors:
-  - Fernando S Borges
-  - Paulo R Protachevicz
-  - Diogo L M Souza
-  - Conrado F Bittencourt
-  - Enrique C Gabrick
-  - Lucas E Bentivoglio
-  - Jose D Szezech
-  - Antonio M Batista
-  - Ibere L Caldas
-  - Salvador Dura-Bernal
-  - Rodrigo F O Pena
-  publisher: Brain Sciences
-  date: '2023-09-20'
-  link: https://www.mdpi.com/2076-3425/13/9/1347
-  term: PENA, RFO[Author] AND PENA, RF[Author]
-  plugin: sources.py
-  file: sources_pena.yaml
-  type: paper
-  description: This study investigates brain firing patterns, specifically the shift from regular spiking to burst 
-  firing in cortical neurons. It focuses on the role of potassium and calcium ion channels under various conditions. 
-  Findings suggest that slow potassium currents are vital for high-synchronous activities and spike-to-burst transitions. 
-  Bistable dynamics in neuronal networks underlie this transition, offering insights for potential pharmacological 
-  interventions to move epileptic brains from pathological bursting to healthier states.
-  image: ../images/brainsci23.png
-  buttons:
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/FernandoSBorges/BistabilityHH
-  - type: website
-    link: https://www.mdpi.com/2076-3425/13/9/1347
-  tags:
-  - Ion channels
-  - Burst synchronization
-  - Bistability
-  - Hysteresis
-- id: pubmed:37645875
   title: 'Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation.'
   authors:
   - Eric Lowet 
