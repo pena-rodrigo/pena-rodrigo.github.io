@@ -22,10 +22,10 @@
   file: sources_pena.yaml
   type: paper
   description: This study investigates brain firing patterns, specifically the shift from regular spiking to burst 
-  firing in cortical neurons. It focuses on the role of potassium and calcium ion channels under various conditions. 
-  Findings suggest that slow potassium currents are vital for high-synchronous activities and spike-to-burst transitions. 
-  Bistable dynamics in neuronal networks underlie this transition, offering insights for potential pharmacological 
-  interventions to move epileptic brains from pathological bursting to healthier states.
+    firing in cortical neurons. It focuses on the role of potassium and calcium ion channels under various conditions. 
+    Findings suggest that slow potassium currents are vital for high-synchronous activities and spike-to-burst transitions. 
+    Bistable dynamics in neuronal networks underlie this transition, offering insights for potential pharmacological 
+    interventions to move epileptic brains from pathological bursting to healthier states.
   image: ../images/brainsci23.png
   buttons:
   - type: source
