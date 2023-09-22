@@ -67,7 +67,11 @@
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
-  description: Complex vs Single spikes in hippocampus CA1 cells.
+  description: We examined how hippocampal neurons switch between generating single spikes and bursts of spikes and 
+    whether they convey different information. We found that burst spikes are associated with encoding an animal's position 
+    as it enters a place field, linked to theta rhythms, while single spikes are related to exiting a place field and connected 
+    to gamma rhythms. These spiking patterns are influenced by the properties of neurons and input frequency, suggesting they
+    perform distinct computations for spatial behavior.
   image: ../images/sscs.jpg
   buttons:
   - type: website
