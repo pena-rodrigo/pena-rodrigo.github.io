@@ -32,6 +32,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <th>Time</th>
 <th>Running time</th>
 <th>Reading material</th>
+<th>Registration link</th>
 </tr>
 <tr>
 <td>Memento (2000)</td>
@@ -40,6 +41,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <td>5 PM</td>
 <td>113 min</td>  
 <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2649674/"> Link</a></td>
+<td><a href="https://forms.office.com/r/MaV5TWa6Bh"> Register!</a></td>
 </tr>
 <tr>
 <td>Alice Cares (2015)</td>
@@ -48,6 +50,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <td>5 PM</td>
 <td>80 min</td>    
 <td><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1166120/full"> Link</a></td>
+<td><a href="https://forms.office.com/r/aC8Yxxv5RH"> Register!</a></td>
 </tr>
 <tr>
 <td>The brain that wouldn't die (1962)</td>
@@ -56,6 +59,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <td>5 PM</td>
 <td>71 min</td>  
 <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9805622/"> Link</a></td>
+<td><a href="https://forms.office.com/r/62rdUvBXee"> Register!</a></td>
 </tr>
 <tr>
 <td>You go to my head (2017)</td>
@@ -64,6 +68,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <td>5 PM</td>
 <td>116 min</td>  
 <td><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3182004/"> Link</a></td>
+<td><a href="https://forms.office.com/r/nniGmDKQ1P"> Register!</a></td>
 </tr>
 <tr>
 <td>Das Kabinett des Doktor Caligari ( The Cabinet of Dr. Caligari ) (1919)</td>
@@ -72,6 +77,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <td>5 PM</td>
 <td>51 min</td>  
 <td><a href="https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.161.7.1149"> Link</a></td>
+<td><a href="https://forms.office.com/r/p5YvFqAVE9"> Register!</a></td>
 </tr>
 </table>
 
