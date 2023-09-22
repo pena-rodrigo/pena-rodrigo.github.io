@@ -70,7 +70,7 @@ After each film, we encourage you to share your thoughts and questions with fell
 <td>Silent Horror & Fantasy</td>
 <td>November 29, 2023</td>
 <td>5 PM</td>
-<td>74 min</td>  
+<td>51 min</td>  
 <td><a href="https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.161.7.1149"> Link</a></td>
 </tr>
 </table>
