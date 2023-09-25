@@ -20,6 +20,7 @@ the Synaptic Popcorn Cinema at Jupiter FAU. </p>
 After each film, we encourage you to share your thoughts and questions with fellow enthusiasts. </p>
 
 <b>Admission is Free!</b>
+<b>Location:</b> FAU Jupiter, AD 119, 5 p.m.
 
 <p>You are highly encouraged to read the material associated with the movies so we can discuss connections.</p>
 
@@ -46,11 +47,11 @@ After each film, we encourage you to share your thoughts and questions with fell
 <tr>
 <td>Alice Cares (2015)</td>
 <td>Documentary</td>
-<td>October 18, 2023</td>
-<td>5 PM</td>
+<td>TBA</td>
+<td>TBA</td>
 <td>80 min</td>    
 <td><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1166120/full"> Link</a></td>
-<td><a href="https://forms.office.com/r/aC8Yxxv5RH"> Register!</a></td>
+<td>TBA</td>
 </tr>
 <tr>
 <td>The brain that wouldn't die (1962)</td>
