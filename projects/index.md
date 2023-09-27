@@ -47,11 +47,11 @@ After each film, we encourage you to share your thoughts and questions with fell
 <tr>
 <td>Alice Cares (2015)</td>
 <td>Documentary</td>
-<td>TBA</td>
-<td>TBA</td>
+<td>October 19 *Thursday, 2023</td>
+<td>5 pm</td>
 <td>80 min</td>    
 <td><a href="https://www.frontiersin.org/articles/10.3389/fpubh.2023.1166120/full"> Link</a></td>
-<td>TBA</td>
+<td><a href="https://forms.office.com/r/aC8Yxxv5RH"> Register!</a></td>
 </tr>
 <tr>
 <td>The brain that wouldn't die (1962)</td>
