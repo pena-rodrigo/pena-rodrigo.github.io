@@ -7,7 +7,7 @@ nav:
 
 {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Find below some of the work we do. A complete list of publications can be found in my CV here: <a href="curriculo_update.pdf" target="_blank">Download</a>.
+<!--Find below some of the work we do. A complete list of publications can be found in my CV here: <a href="curriculo_update.pdf" target="_blank">Download</a>. -->
 
 {% include section.html %}
 
