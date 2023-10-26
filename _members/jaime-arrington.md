@@ -1,6 +1,6 @@
 ---
 name: Jaime Arrington
-image: images/jaime.png
+image: images/jaime.jpg
 role: student
 aliases:
   - Arrington, J
