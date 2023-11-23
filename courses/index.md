@@ -6,7 +6,8 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}
-<!DOCTYPE html>
+<b>Spring 2024</b> We will be offering Artificial Intelligence Applications in Biology
+
 <html>
   <head>
     <title>PDF Viewer</title>
@@ -18,14 +19,14 @@ nav:
     -->
     <div>
       <object
-        data='https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf'
+        data='../images/AI_flyer'
         type="application/pdf"
         width="500"
         height="678"
       >
 
         <iframe
-          src='https://pdfjs-express.s3-us-west-2.amazonaws.com/docs/choosing-a-pdf-viewer.pdf'
+          src='../images/AI_flyer'
           width="500"
           height="678"
         >
