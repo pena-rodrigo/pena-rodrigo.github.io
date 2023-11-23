@@ -6,7 +6,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}
-<b>Spring 2024</b> We will be offering Artificial Intelligence Applications in Biology
+<ul>
+<li><b>Spring 2024</b> - We will be offering Artificial Intelligence Applications in Biology. </li>
+</ul>
 
 <html>
   <head>
@@ -19,14 +21,14 @@ nav:
     -->
     <div>
       <object
-        data='../images/AI_flyer'
+        data='../images/AI_flyer.pdf'
         type="application/pdf"
         width="500"
         height="678"
       >
 
         <iframe
-          src='../images/AI_flyer'
+          src='../images/AI_flyer.pdf'
           width="500"
           height="678"
         >
