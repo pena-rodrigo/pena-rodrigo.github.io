@@ -5,12 +5,17 @@ nav:
   tooltip: Discuss science and relax
 ---
 
+<h4> We had a fun semester with the Synaptic Popcorn Cinema at Jupiter FAU in 2023. We hope to return during next Fall 2024. 
+If you like cinema and science, feel free to reach out with ideas. See below our previous edition of the cinema. </h4>
+
 # {% include icon.html icon="fa-solid fa-wrench" %}Art & Culture
 <html>
 <body>
 <div style="text-align: center;">
 <img src="../images/synaptic_popcorn.jpg" width="430" height="350">
 </div>
+
+
 
 <p>
 We believe that science is fun! Come to watch a movie and learn about neuroscience and artificial intelligence at
