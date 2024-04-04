@@ -1,7 +1,7 @@
 ---
 name: Belle Krubitski
 image: images/belle.jpg
-role: student
+role: phd
 aliases:
   - Krubitski, B.
 ---
