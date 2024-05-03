@@ -21,7 +21,7 @@ nav:
     -->
     <div>
       <object
-        data='../images/AI_flyer.pdf'
+        data='../images/BMS_flyer.pdf'
         type="application/pdf"
         width="500"
         height="678"
