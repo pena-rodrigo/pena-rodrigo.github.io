@@ -18,6 +18,9 @@ undergrad:
 student:
   description: Student
 
+visiting:
+  description: Visiting Researcher
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
