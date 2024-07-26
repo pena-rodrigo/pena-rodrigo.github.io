@@ -1,6 +1,6 @@
 ---
 name: Cesar Celis Ceballos
-image: images/ccc.png
+image: images/ccc.jpg
 role: postdoc
 aliases:
   - Ceballos, C. C.
