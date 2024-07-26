@@ -1,6 +1,6 @@
 ---
 name: Joao Pedro Pirola
-image: images/pirola.jpeg
+image: images/pirola.jpg
 role: visiting
 aliases:
   - Joao, P. P.
