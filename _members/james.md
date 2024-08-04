@@ -1,9 +1,9 @@
 ---
-name: James Less
+name: James Lee
 image: images/james.jpg
 role: student
 aliases:
-  - Sanaullah, A
+  - Lee, J
 ---
 
 Hello! My name is James Lee, and I am currently a freshman at the Wilkes Honors College at Florida Atlantic University, majoring in Biological and Physical Sciences within the pre-medical BS/MD program. My academic journey is fueled by a profound interest in the life sciences and a commitment to advancing medical knowledge through rigorous research.
