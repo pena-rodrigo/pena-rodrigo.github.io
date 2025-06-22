@@ -9,6 +9,8 @@ nav:
 
 <!--Find below some of the work we do. A complete list of publications can be found in my CV here: <a href="curriculo_update.pdf" target="_blank">Download</a>. -->
 
+<p>Check it out: our fly brain simulation using the VNC connectome: <a href="https://www.flybrian.com/" target="_blank" rel="noopener noreferrer">https://www.flybrian.com/</a></p>
+
 {% include section.html %}
 
 ## Highlighted
