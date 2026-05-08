@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}
 <ul>
 <li>
-<b>Summer 2026</b> - Second edition of the Summer School for Computational Applications in Neuroscience (SCAN), taking place on May 14th and 15th at Florida Atlantic University, hosted at the Stiles-Nicholson Brain Institute.
+<b>Summer 2026</b> - Second edition of the Summer School for Computational Applications in Neuroscience (SCAN), taking place on May 14th and 15th at Florida Atlantic University, organized by the Pena lab and hosted at the Stiles-Nicholson Brain Institute.
 </li>
 </ul>
 
