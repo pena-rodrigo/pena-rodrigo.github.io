@@ -1,7 +1,7 @@
 ---
 title: Art & Culture
 nav:
-  order: 4
+  order: 6
   tooltip: Discuss science and relax
 ---
 

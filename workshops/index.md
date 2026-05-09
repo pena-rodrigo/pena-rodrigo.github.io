@@ -1,0 +1,222 @@
+---
+title: Workshops
+permalink: /workshops/
+nav:
+  order: 4
+  tooltip: Training events and scientific workshops
+---
+
+# {% include icon.html icon="fa-solid fa-chalkboard-user" %}Workshops
+
+<div class="workshops-page">
+  <section class="workshop-hero-panel" aria-labelledby="scan-title">
+    <div class="workshop-hero-copy">
+      <p class="workshop-eyebrow">Featured upcoming workshop</p>
+      <h2 id="scan-title">School for Computational Applications in Neuroscience 2026</h2>
+      <p class="workshop-acronym">SCAN 2026</p>
+      <p class="workshop-lead">
+        A focused training event at Florida Atlantic University bringing together computational
+        neuroscience, connectomics, protein structure, artificial intelligence, bioinformatics,
+        simulation, and emerging computational methods for neuroscience research.
+      </p>
+    </div>
+
+    <div class="workshop-hero-card" aria-label="Workshop highlights">
+      <div class="workshop-affiliation-mark">
+        <img src="/images/fau.jpg" alt="Florida Atlantic University" loading="lazy">
+      </div>
+      <div>
+        <span class="workshop-card-label">Dates</span>
+        <strong>May 14–15, 2026</strong>
+      </div>
+      <div>
+        <span class="workshop-card-label">Location</span>
+        <a
+          class="workshop-map-link"
+          href="https://www.google.com/maps/place/Florida+Atlantic+University+-+John+D.+MacArthur+Campus+at+Jupiter/@26.889464,-80.1197961,17z/data=!4m10!1m2!2m1!1sjohn+macarthur+fau!3m6!1s0x88ded597114afe15:0x82f82c56c63a81d5!8m2!3d26.889464!4d-80.117003!15sChJqb2huIG1hY2FydGh1ciBmYXWSARFwdWJsaWNfdW5pdmVyc2l0eeABAA!16s%2Fg%2F11bv3864ql"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <strong>Florida Atlantic University</strong>
+        </a>
+      </div>
+      <div>
+        <span class="workshop-card-label">Host</span>
+        <a
+          class="workshop-map-link"
+          href="https://www.google.com/maps/place/Florida+Atlantic+University+-+John+D.+MacArthur+Campus+at+Jupiter/@26.889464,-80.1197961,17z/data=!4m10!1m2!2m1!1sjohn+macarthur+fau!3m6!1s0x88ded597114afe15:0x82f82c56c63a81d5!8m2!3d26.889464!4d-80.117003!15sChJqb2huIG1hY2FydGh1ciBmYXWSARFwdWJsaWNfdW5pdmVyc2l0eeABAA!16s%2Fg%2F11bv3864ql"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <strong>Stiles-Nicholson Brain Institute · Computational Neuroscience Lab</strong>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <div class="workshop-intro-grid">
+    <article>
+      <h3>About SCAN</h3>
+      <p>
+        The School for Computational Applications in Neuroscience is designed as an immersive
+        short school for students and researchers interested in modern computational approaches
+        to neuroscience. The program highlights practical methods, active research directions,
+        and community-building around computational neuroscience at FAU.
+      </p>
+    </article>
+
+    <article>
+      <h3>Workshop series</h3>
+      <p>
+        This page will grow into a home for Pena Lab workshops offered locally and around the
+        world. SCAN is the first featured event in a broader effort to share computational
+        neuroscience tools, training, and scientific exchange with diverse research communities.
+      </p>
+    </article>
+  </div>
+
+  <h2>SCAN Program Schedule</h2>
+
+  <div class="schedule-grid">
+    <article class="schedule-day schedule-day-arrival">
+      <div class="schedule-day-header">
+        <span>Wednesday, May 13</span>
+        <strong>Arrival and check-in</strong>
+      </div>
+
+      <ol class="timeline">
+        <li>
+          <time>6:00 pm</time>
+          <div>
+            <strong>Arrival &amp; Check-in</strong>
+            <span>Homewood Suites by Hilton Palm Beach Gardens</span>
+            <span>
+              <a
+                class="workshop-map-link"
+                href="https://www.google.com/maps/search/?api=1&query=4700+Donald+Ross+Rd%2C+Palm+Beach+Gardens%2C+FL+33418"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Open directions to Homewood Suites by Hilton Palm Beach Gardens in Google Maps"
+              >
+                4700 Donald Ross Rd, Palm Beach Gardens, FL 33418
+              </a>
+            </span>
+          </div>
+        </li>
+      </ol>
+    </article>
+
+    <article class="schedule-day">
+      <div class="schedule-day-header">
+        <span>Thursday, May 14</span>
+        <strong>Workshop start and computational neuroscience methods</strong>
+      </div>
+
+      <ol class="timeline">
+        <li>
+          <time>9:00 am</time>
+          <div>
+            <strong>Opening Remarks and Workshop Start</strong>
+            <span>Dr. Rodrigo Pena, Introduction to SCAN</span>
+          </div>
+        </li>
+        <li>
+          <time>10:00 am</time>
+          <div>
+            <strong>Dr. Yue Liu</strong>
+            <span>Recurrent Neural Networks</span>
+          </div>
+        </li>
+        <li>
+          <time>11:00 am</time>
+          <div>
+            <strong>Dr. Cristina Ferrer</strong>
+            <span>Protein Structures</span>
+          </div>
+        </li>
+        <li class="timeline-break">
+          <time>12:00 pm</time>
+          <div>
+            <strong>Lunch Break</strong>
+          </div>
+        </li>
+        <li>
+          <time>1:30 pm</time>
+          <div>
+            <strong>Dr. Juan Lopez</strong>
+            <span>Methods for Connectomic Dataset Access</span>
+          </div>
+        </li>
+        <li>
+          <time>2:30 pm</time>
+          <div>
+            <strong>Dr. Cesar Ceballos</strong>
+            <span>Connectomic Data Analysis</span>
+          </div>
+        </li>
+        <li>
+          <time>3:30 pm</time>
+          <div>
+            <strong>Ty Roachford</strong>
+            <span>Large-scale Connectomic Simulations</span>
+          </div>
+        </li>
+        <li>
+          <time>4:30 pm</time>
+          <div>
+            <strong>Lindsey Knowles</strong>
+            <span>Quantum Computing Introduction and Applications</span>
+          </div>
+        </li>
+        <li class="timeline-break">
+          <time>6:30 pm</time>
+          <div>
+            <strong>Dinner @ <em>TBD</em></strong>
+          </div>
+        </li>
+      </ol>
+    </article>
+
+    <article class="schedule-day">
+      <div class="schedule-day-header">
+        <span>Friday, May 15</span>
+        <strong>AI, bioinformatics, conclusion, and NeuroCollective</strong>
+      </div>
+
+      <ol class="timeline">
+        <li>
+          <time>9:00 am</time>
+          <div>
+            <strong>Dhruvum Bajpai</strong>
+            <span>AI methods for Data Analysis</span>
+          </div>
+        </li>
+        <li>
+          <time>10:00 am</time>
+          <div>
+            <strong>Belle Krubitski</strong>
+            <span>Bioinformatics: Applications</span>
+          </div>
+        </li>
+        <li class="timeline-break">
+          <time>11:00 am</time>
+          <div>
+            <strong>Workshop Conclusion</strong>
+          </div>
+        </li>
+        <li class="timeline-feature">
+          <time>11:30 am</time>
+          <div>
+            <strong>Lunch &amp; NeuroCollective Start</strong>
+            <span>
+              SCAN continues into
+              <a href="https://www.fau.edu/jupiter/neurocollective/">The NeuroCollective Symposium</a>,
+              FAU Jupiter's tri-institute neuroscience event highlighting trainee research,
+              networking, and discovery across the local biomedical research community.
+            </span>
+          </div>
+        </li>
+      </ol>
+    </article>
+  </div>
+</div>
