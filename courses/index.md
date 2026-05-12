@@ -76,6 +76,8 @@ Homewood Suites by Hilton Palm Beach Gardens<br>
   <tr><td>Mason Martin</td><td>Florida Atlantic University</td></tr>
   <tr><td>Rebecca Goodman</td><td>Florida Atlantic University</td></tr>
   <tr><td>Tasianna Giordano</td><td>Florida Atlantic University</td></tr>
+  <tr><td>Sweetha Manikandan</td><td>Florida Atlantic University</td></tr>
+
 </table>
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}
