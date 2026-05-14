@@ -15,9 +15,9 @@ nav:
       <h2 id="scan-title">School for Computational Applications in Neuroscience 2026</h2>
       <p class="workshop-acronym">SCAN 2026</p>
       <p class="workshop-lead">
-        A focused training event at Florida Atlantic University bringing together computational
+        A focused training event by the Pena Lab at Florida Atlantic University, bringing together computational
         neuroscience, connectomics, protein structure, artificial intelligence, bioinformatics,
-        simulation, and emerging computational methods for neuroscience research.
+        simulation, quantum computing, and emerging computational methods for neuroscience research.
       </p>
     </div>
 
@@ -48,7 +48,7 @@ nav:
           target="_blank"
           rel="noopener noreferrer"
         >
-          <strong>Stiles-Nicholson Brain Institute · Computational Neuroscience Lab</strong>
+          <strong>Pena Lab · Stiles-Nicholson Brain Institute · Computational Neuroscience Lab</strong>
         </a>
       </div>
     </div>
