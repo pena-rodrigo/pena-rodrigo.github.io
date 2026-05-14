@@ -1,4 +1,5 @@
 - id: isci:2026-ceballos-drosophila
+  date: '2026'
   type: paper
   description: This study presents a comprehensive analysis of the Drosophila connectome, identifying previously uncharacterized axo-axonic synapses on descending neurons. These findings provide new insights into the circuit organization and computational properties of descending motor pathways in neural circuits controlling behavior.
   buttons:
@@ -11,6 +12,7 @@
     - Descending neurons
 
 - id: nature:2026-ai-benchmark
+  date: '2026'
   type: paper
   description: This collaborative benchmark study evaluates the capabilities of advanced artificial intelligence systems using expert-level academic questions across multiple domains. The research provides a comprehensive assessment framework for understanding current AI capabilities and limitations, with implications for future AI development and deployment.
   buttons:
@@ -30,6 +32,7 @@
     - Academic assessment
 
 - id: faurj:2026-lee-dbs
+  date: '2026'
   type: paper
   description: This computational study investigates how deep brain stimulation can be optimized to induce target neural activity patterns using simulation-based inference. By leveraging detailed neural models and Bayesian inference techniques, the research demonstrates how in-silico approaches can inform DBS parameter selection and improve therapeutic outcomes.
   buttons:
@@ -42,6 +45,7 @@
     - Bayesian inference
 
 - id: cogsneuro:2026-krubitski
+  date: '2026'
   type: paper
   description: This research investigates how synaptic summation mechanisms interact with GABA-glutamate co-transmission to shape information transfer in neural circuits. The findings reveal how dual neurotransmitter signaling and nonlinear summation dynamics contribute to the computational properties of neurons and network-level information processing.
   buttons:
@@ -55,6 +59,7 @@
     - Nonlinear dynamics
 
 - id: foundations:2025-roachford
+  date: '2025'
   type: paper
   description: This theoretical analysis compares Perceptual Control Theory (PCT) with the Free Energy Principle (FEP), two major frameworks for understanding biological organization and adaptive behavior. The comparison reveals complementary insights and differences in how these theories explain neural and behavioral phenomena.
   buttons:
@@ -67,6 +72,7 @@
     - Bayesian inference
 
 - id: jcn:2025-mondal
+  date: '2025'
   type: paper
   description: This study characterizes how postsynaptic neurons implement frequency filtering through the interaction of short-term synaptic plasticity and intrinsic cellular properties. The research demonstrates that these mechanisms work in concert to shape frequency-dependent responses, filtering information across different frequency bands.
   buttons:
@@ -79,6 +85,7 @@
     - Temporal coding
 
 - id: eneuro:2025-lopez
+  date: '2025'
   type: paper
   description: This study identifies the role of Frazzled/DCC in regulating gap junction formation at the giant synapse in Drosophila. The findings reveal molecular mechanisms controlling electrical synaptic connectivity, providing insights into how gap junctions are assembled and organized in neural circuits.
   buttons:
@@ -91,6 +98,7 @@
     - Synaptic development
 
 - id: ploscompbio:2025-ceballos
+  date: '2025'
   type: paper
   description: This research reveals that neurons can exhibit distinct resonant properties in both single-spike and bursting modes. The findings demonstrate that neurons dynamically switch between different frequency-filtering regimes depending on their spiking pattern, providing new insights into how neural circuits encode and process information.
   buttons:
@@ -103,6 +111,7 @@
     - Frequency filtering
 
 - id: biophys:2025-ceballos-dendritic
+  date: '2025'
   type: paper
   description: This study investigates how dendrites integrate synaptic inputs under conditions that mimic in vivo neural activity. The research characterizes different modes of dendritic integration and how they depend on the state of neural activity, revealing dynamic changes in neuronal computation during behavior.
   buttons:
@@ -115,6 +124,7 @@
     - In vivo states
 
 - id: neurocomputing:2025-ferreira
+  date: '2025'
   type: paper
   description: This work develops methods for selecting appropriate models to estimate functional connectivity between neurons with variable memory properties. The research provides statistical tools for identifying effective interactions in stochastic neural systems, improving the accuracy of functional connectivity estimates from neural recordings.
   buttons:
@@ -127,6 +137,7 @@
     - Neural interactions
 
 - id: cogsneuro:2025-pirola
+  date: '2025'
   type: paper
   description: This study develops machine learning approaches to identify signatures of astrocytic influence on neuronal activity patterns. The research demonstrates how glial-neuronal interactions shape neural dynamics and provides tools for detecting these interactions in recorded neural data.
   buttons:
@@ -139,6 +150,7 @@
     - Neural dynamics
 
 - id: pjs:2025-borges
+  date: '2025'
   type: paper
   description: This perspective article discusses how computational neuroscience bridges different levels of biological organization, from molecular and cellular processes to network and systems-level phenomena. The work addresses challenges and opportunities for developing multi-scale computational models that capture brain function.
   buttons:
@@ -151,6 +163,7 @@
     - Network organization
 
 - id: brainsci:2024-izzi
+  date: '2024'
   type: paper
   description: This work develops improved transfer entropy estimators for identifying effective connectivity in stochastic neural systems with variable memory properties. The research provides practical tools for analyzing information flow between neurons in complex neural networks, advancing functional connectivity estimation.
   buttons:
