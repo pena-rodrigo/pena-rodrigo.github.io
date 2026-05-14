@@ -75,6 +75,97 @@ nav:
     </article>
   </div>
 
+  <h2>Accepted Participants</h2>
+
+  <div class="participants-table-container">
+    <table class="participants-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Institution</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Ethan Johnson</td>
+          <td>Florida International University</td>
+        </tr>
+        <tr>
+          <td>Anika Chowdhury</td>
+          <td>Florida International University</td>
+        </tr>
+        <tr>
+          <td>Soleil Escobar</td>
+          <td>Florida International University</td>
+        </tr>
+        <tr>
+          <td>Gillian Durta</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Devyani Jain</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Victoria Montalvo</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Max Boyington</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Zorianna Starks</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Maisha Milon</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Daniel Miranda</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Eva Allen</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Sofia Sierra</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Sebastian Ruiz</td>
+          <td>Florida State University</td>
+        </tr>
+        <tr>
+          <td>Yabsera Negussie</td>
+          <td>Nova Southeastern University</td>
+        </tr>
+        <tr>
+          <td>Wyatt Boyington</td>
+          <td>University of Florida</td>
+        </tr>
+        <tr>
+          <td>Mason Martin</td>
+          <td>Florida Atlantic University</td>
+        </tr>
+        <tr>
+          <td>Rebecca Goodman</td>
+          <td>Florida Atlantic University</td>
+        </tr>
+        <tr>
+          <td>Tasianna Giordano</td>
+          <td>Florida Atlantic University</td>
+        </tr>
+        <tr>
+          <td>Sweetha Manikandan</td>
+          <td>Florida Atlantic University</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
   <h2>SCAN Program Schedule</h2>
 
   <div class="schedule-grid">
@@ -219,4 +310,31 @@ nav:
       </ol>
     </article>
   </div>
+
+  <h2>Previous Edition: SCAN 2025</h2>
+
+  <section class="scan-previous-edition">
+    <article class="scan-2025-info">
+      <h3>Summer 2025 - First Edition</h3>
+      <p>
+        The first edition of the Summer School for Computational Applications in Neuroscience (SCAN) 
+        was held in summer 2025 at Florida State University. The course was invited by the CompNeuroSociety 
+        and served as a foundational event for establishing this innovative training program in computational 
+        neuroscience, bringing together students and researchers from many institutions to learn modern 
+        computational approaches.
+      </p>
+    </article>
+
+    <div class="scan-2025-photos">
+      <figure>
+        <img src="../images/fsu25.jpg" alt="SCAN 2025 at Florida State University - Group photo" loading="lazy">
+        <figcaption>SCAN 2025 at Florida State University</figcaption>
+      </figure>
+      <figure>
+        <img src="../images/fsu252.jpg" alt="SCAN 2025 at Florida State University - Workshop session" loading="lazy">
+        <figcaption>SCAN 2025 Workshop in Progress</figcaption>
+      </figure>
+    </div>
+  </section>
+
 </div>
