@@ -1,6 +1,6 @@
 ---
 name: Juan Lopez
-image: images/ccc.jpg
+image: images/juan.jpg
 role: postdoc
 aliases:
   - Lopez, J
