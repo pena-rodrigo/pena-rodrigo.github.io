@@ -1,3 +1,167 @@
+- id: isci:2026-ceballos-drosophila
+  type: paper
+  description: This study presents a comprehensive analysis of the Drosophila connectome, identifying previously uncharacterized axo-axonic synapses on descending neurons. These findings provide new insights into the circuit organization and computational properties of descending motor pathways in neural circuits controlling behavior.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1016/j.isci.2026.115624
+  tags:
+    - Connectomics
+    - Drosophila
+    - Synaptic organization
+    - Descending neurons
+
+- id: nature:2026-ai-benchmark
+  type: paper
+  description: This collaborative benchmark study evaluates the capabilities of advanced artificial intelligence systems using expert-level academic questions across multiple domains. The research provides a comprehensive assessment framework for understanding current AI capabilities and limitations, with implications for future AI development and deployment.
+  buttons:
+    - type: website
+      text: Nature Article
+      link: https://doi.org/10.1038/s41586-025-09962-4
+    - type: website
+      text: Featured in NYT
+      link: https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html
+    - type: website
+      text: Featured in Reuters
+      link: https://www.reuters.com/technology/artificial-intelligence/ai-experts-ready-humanitys-last-exam-stump-powerful-tech-2024-09-16/
+  tags:
+    - Artificial intelligence
+    - AI benchmarking
+    - Model evaluation
+    - Academic assessment
+
+- id: faurj:2026-lee-dbs
+  type: paper
+  description: This computational study investigates how deep brain stimulation can be optimized to induce target neural activity patterns using simulation-based inference. By leveraging detailed neural models and Bayesian inference techniques, the research demonstrates how in-silico approaches can inform DBS parameter selection and improve therapeutic outcomes.
+  buttons:
+    - type: website
+      link: https://fau.edu/research
+  tags:
+    - Deep brain stimulation
+    - Simulation-based inference
+    - Neural modeling
+    - Bayesian inference
+
+- id: cogsneuro:2026-krubitski
+  type: paper
+  description: This research investigates how synaptic summation mechanisms interact with GABA-glutamate co-transmission to shape information transfer in neural circuits. The findings reveal how dual neurotransmitter signaling and nonlinear summation dynamics contribute to the computational properties of neurons and network-level information processing.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1007/s11571-025-10383-2
+  tags:
+    - Synaptic transmission
+    - Co-transmission
+    - GABA-glutamate
+    - Information transfer
+    - Nonlinear dynamics
+
+- id: foundations:2025-roachford
+  type: paper
+  description: This theoretical analysis compares Perceptual Control Theory (PCT) with the Free Energy Principle (FEP), two major frameworks for understanding biological organization and adaptive behavior. The comparison reveals complementary insights and differences in how these theories explain neural and behavioral phenomena.
+  buttons:
+    - type: website
+      link: https://doi.org/10.3390/foundations5040035
+  tags:
+    - Perceptual Control Theory
+    - Free Energy Principle
+    - Theoretical neuroscience
+    - Bayesian inference
+
+- id: jcn:2025-mondal
+  type: paper
+  description: This study characterizes how postsynaptic neurons implement frequency filtering through the interaction of short-term synaptic plasticity and intrinsic cellular properties. The research demonstrates that these mechanisms work in concert to shape frequency-dependent responses, filtering information across different frequency bands.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1007/s10827-025-00908-3
+  tags:
+    - Frequency filtering
+    - Short-term plasticity
+    - Synaptic dynamics
+    - Temporal coding
+
+- id: eneuro:2025-lopez
+  type: paper
+  description: This study identifies the role of Frazzled/DCC in regulating gap junction formation at the giant synapse in Drosophila. The findings reveal molecular mechanisms controlling electrical synaptic connectivity, providing insights into how gap junctions are assembled and organized in neural circuits.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1523/ENEURO.0202-25.2025
+  tags:
+    - Gap junctions
+    - Electrical synapses
+    - Drosophila
+    - Synaptic development
+
+- id: ploscompbio:2025-ceballos
+  type: paper
+  description: This research reveals that neurons can exhibit distinct resonant properties in both single-spike and bursting modes. The findings demonstrate that neurons dynamically switch between different frequency-filtering regimes depending on their spiking pattern, providing new insights into how neural circuits encode and process information.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1371/journal.pcbi.1013126
+  tags:
+    - Resonance
+    - Burst firing
+    - Spike patterns
+    - Frequency filtering
+
+- id: biophys:2025-ceballos-dendritic
+  type: paper
+  description: This study investigates how dendrites integrate synaptic inputs under conditions that mimic in vivo neural activity. The research characterizes different modes of dendritic integration and how they depend on the state of neural activity, revealing dynamic changes in neuronal computation during behavior.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1016/j.bpj.2025.04.028
+  tags:
+    - Dendrites
+    - Synaptic integration
+    - Nonlinear dynamics
+    - In vivo states
+
+- id: neurocomputing:2025-ferreira
+  type: paper
+  description: This work develops methods for selecting appropriate models to estimate functional connectivity between neurons with variable memory properties. The research provides statistical tools for identifying effective interactions in stochastic neural systems, improving the accuracy of functional connectivity estimates from neural recordings.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1016/j.neucom.2025.130333
+  tags:
+    - Functional connectivity
+    - Model selection
+    - Stochastic processes
+    - Neural interactions
+
+- id: cogsneuro:2025-pirola
+  type: paper
+  description: This study develops machine learning approaches to identify signatures of astrocytic influence on neuronal activity patterns. The research demonstrates how glial-neuronal interactions shape neural dynamics and provides tools for detecting these interactions in recorded neural data.
+  buttons:
+    - type: website
+      link: https://doi.org/10.1007/s11571-025-10276-4
+  tags:
+    - Astrocytes
+    - Glial-neuronal interaction
+    - Machine learning
+    - Neural dynamics
+
+- id: pjs:2025-borges
+  type: paper
+  description: This perspective article discusses how computational neuroscience bridges different levels of biological organization, from molecular and cellular processes to network and systems-level phenomena. The work addresses challenges and opportunities for developing multi-scale computational models that capture brain function.
+  buttons:
+    - type: website
+      link: https://doi.org/10.70389/PJS.100071
+  tags:
+    - Multi-scale modeling
+    - Computational neuroscience
+    - Systems neuroscience
+    - Network organization
+
+- id: brainsci:2024-izzi
+  type: paper
+  description: This work develops improved transfer entropy estimators for identifying effective connectivity in stochastic neural systems with variable memory properties. The research provides practical tools for analyzing information flow between neurons in complex neural networks, advancing functional connectivity estimation.
+  buttons:
+    - type: website
+      link: https://doi.org/10.3390/brainsci14050442
+  tags:
+    - Transfer entropy
+    - Effective connectivity
+    - Information theory
+    - Neural interactions
+
 - id: pubmed:35869381
   type: paper
   description: We investigate how neurons filter and code sensory inputs using temporal filters. Short-term plasticity (STP) and various processes influence these filters. We develop mathematical tools to understand their generation and extend the findings to complex networks.
