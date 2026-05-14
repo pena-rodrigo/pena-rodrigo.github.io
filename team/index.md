@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+## Current Members
+
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
@@ -18,9 +20,34 @@ I am dedicated to providing exceptional supervision and mentorship to students. 
 
 {% include section.html %}
 
-{% capture content %}
+## Alumni
 
+### Undergraduate Students
 
-{% endcapture %}
+- Emily Taveres, Department of Biological Sciences
+- Sofia Martinez, Department of Biological Sciences
+- Alexandra Atkinson, Department of Biological Sciences
+- Esteban Cuadra, Department of Biological Sciences
+- Luciana Fabrega, Department of Biological Sciences
+- Beatrice Mattison-Santos, Department of Biological Sciences
+- William Laws, Groton University
+- Abigail Shepard, Harriet L. Wilkes Honors College
+- James Lee, Harriet L. Wilkes Honors College
+- Paige Deforest, Harriet L. Wilkes Honors College
 
-{% include grid.html style="square" content=content %}
+### International Undergraduate Visiting Students
+
+- João Pirola, Federal University of São Carlos, Brazil / FAU Biological Sciences
+- Julia Vinagre, Pontificia Universidade Católica, Brazil / FAU Biological Sciences
+
+### High School Double Major with Undergraduate
+
+- Charan Jarugula, FAU High School / FAU Undergraduate
+- Ayan Sanaullah, FAU High School / FAU Undergraduate
+- Anirudth Venkat, FAU High School / FAU Undergraduate
+- Arjun Vadlamudi, FAU High School / FAU Undergraduate
+- Taran Kesharaju, FAU High School / FAU Undergraduate
+
+### Postbaccalaureate
+
+- Jaime Arrington, Postbaccalaureate
