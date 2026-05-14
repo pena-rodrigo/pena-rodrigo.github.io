@@ -1,4 +1,374 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+- id: isci:2026-ceballos-drosophila
+  title: 'The Drosophila connectome reveals Axo-Axonic Synapses on Descending Neurons.'
+  authors:
+  - Cesar Ceballos
+  - Juan Lopez
+  - Ty Roachford
+  - Diana Sanchez
+  - Sebastián Jara
+  - Kali Robbins
+  - Chelsie L Spencer
+  - Richard Murphey
+  - Rodrigo F O Pena
+  publisher: iScience
+  date: '2026'
+  link: https://doi.org/10.1016/j.isci.2026.115624
+  term: PENA, RFO[Author] AND Drosophila[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This study presents a comprehensive analysis of the Drosophila connectome, 
+    identifying previously uncharacterized axo-axonic synapses on descending neurons. 
+    These findings provide new insights into the circuit organization and computational 
+    properties of descending motor pathways, advancing our understanding of how neural 
+    circuits control behavior in this model organism.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1016/j.isci.2026.115624
+  tags:
+  - Connectomics
+  - Drosophila
+  - Synaptic organization
+  - Descending neurons
+
+- id: nature:2026-ai-benchmark
+  title: 'A benchmark of expert-level academic questions to assess AI capabilities.'
+  authors:
+  - Center for AI Safety
+  - Scale AI
+  - Rodrigo F O Pena
+  - Davide Scaramuzza
+  publisher: Nature
+  date: '2026'
+  link: https://doi.org/10.1038/s41586-025-09962-4
+  term: PENA, RFO[Author] AND AI[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This collaborative benchmark study evaluates the capabilities of advanced 
+    artificial intelligence systems using expert-level academic questions across multiple 
+    domains. The research provides a comprehensive assessment framework for understanding 
+    current AI capabilities and limitations, with implications for future AI development 
+    and deployment. The work has been featured in major news outlets including The New York Times 
+    and Reuters for its significance in evaluating AI advancement.
+  buttons:
+  - type: website
+    text: Nature Article
+    link: https://doi.org/10.1038/s41586-025-09962-4
+  - type: website
+    text: Featured in NYT
+    link: https://www.nytimes.com/2025/01/23/technology/ai-test-humanitys-last-exam.html
+  - type: website
+    text: Featured in Reuters
+    link: https://www.reuters.com/technology/artificial-intelligence/ai-experts-ready-humanitys-last-exam-stump-powerful-tech-2024-09-16/
+  tags:
+  - Artificial intelligence
+  - AI benchmarking
+  - Model evaluation
+  - Academic assessment
+
+- id: faurj:2026-lee-dbs
+  title: 'An in-silico investigation of induced target neural activity through simulation-based 
+    inference informed deep brain stimulation.'
+  authors:
+  - James Lee
+  - Ty Roachford
+  - Rodrigo F O Pena
+  publisher: FAU Research Journal
+  date: '2026'
+  link: ''
+  term: PENA, RFO[Author] AND deep brain stimulation[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This computational study investigates how deep brain stimulation can be 
+    optimized to induce target neural activity patterns using simulation-based inference. 
+    By leveraging detailed neural models and Bayesian inference techniques, the research 
+    demonstrates how in-silico approaches can inform DBS parameter selection and improve 
+    therapeutic outcomes for neurological conditions.
+  tags:
+  - Deep brain stimulation
+  - Simulation-based inference
+  - Neural modeling
+  - Computational neuroscience
+
+- id: cogsneuro:2026-krubitski
+  title: 'Synaptic summation shapes information transfer in GABA-glutamate co-transmission.'
+  authors:
+  - Belle Krubitski
+  - Cesar Ceballos
+  - Ty Roachford
+  - Rodrigo F O Pena
+  publisher: Cognitive Neurodynamics
+  date: '2026'
+  link: https://doi.org/10.1007/s11571-025-10383-2
+  term: PENA, RFO[Author] AND GABA-glutamate[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This research investigates how synaptic summation mechanisms interact with 
+    GABA-glutamate co-transmission to shape information transfer in neural circuits. The 
+    findings reveal how dual neurotransmitter signaling and nonlinear summation dynamics 
+    contribute to the computational properties of neurons and network-level information processing.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1007/s11571-025-10383-2
+  tags:
+  - Synaptic transmission
+  - Co-transmission
+  - GABA-glutamate
+  - Information transfer
+  - Nonlinear dynamics
+
+- id: foundations:2025-roachford
+  title: 'PCT vs. FEP: a comparison between reorganization theory and Bayesian inference.'
+  authors:
+  - Ty Roachford
+  - Warren Mansell
+  - Rodrigo F O Pena
+  publisher: Foundations
+  date: '2025'
+  link: https://doi.org/10.3390/foundations5040035
+  term: PENA, RFO[Author] AND Bayesian[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This theoretical analysis compares Perceptual Control Theory (PCT) with 
+    the Free Energy Principle (FEP), two major frameworks for understanding biological 
+    organization and adaptive behavior. The comparison reveals complementary insights and 
+    differences in how these theories explain neural and behavioral phenomena, with implications 
+    for computational neuroscience and theoretical biology.
+  buttons:
+  - type: website
+    link: https://doi.org/10.3390/foundations5040035
+  tags:
+  - Perceptual Control Theory
+  - Free Energy Principle
+  - Theoretical neuroscience
+  - Bayesian inference
+
+- id: jcn:2025-mondal
+  title: 'Postsynaptic frequency filters shaped by the interplay of synaptic short-term 
+    plasticity and cellular time scales.'
+  authors:
+  - Yugarshi Mondal
+  - Victoria B Benito
+  - Rodrigo F O Pena
+  - Horacio G Rotstein
+  publisher: Journal of Computational Neuroscience
+  date: '2025'
+  link: https://doi.org/10.1007/s10827-025-00908-3
+  term: PENA, RFO[Author] AND temporal filters[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This study characterizes how postsynaptic neurons implement frequency 
+    filtering through the interaction of short-term synaptic plasticity and intrinsic 
+    cellular properties. The research demonstrates that these mechanisms work in concert 
+    to shape frequency-dependent responses, providing insights into how neural circuits 
+    selectively process information across different frequency bands.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1007/s10827-025-00908-3
+  tags:
+  - Frequency filtering
+  - Short-term plasticity
+  - Synaptic dynamics
+  - Temporal coding
+
+- id: eneuro:2025-lopez
+  title: 'Frazzled/DCC regulates gap junction formation at a Drosophila giant synapse.'
+  authors:
+  - Juan Lopez
+  - Jennifer Boerner
+  - Kali Robbins
+  - Rodrigo F O Pena
+  - Richard Murphey
+  publisher: eNeuro
+  date: '2025'
+  link: https://doi.org/10.1523/ENEURO.0202-25.2025
+  term: PENA, RFO[Author] AND gap junction[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This study identifies the role of Frazzled/DCC in regulating gap junction 
+    formation at the giant synapse in Drosophila. The findings reveal molecular mechanisms 
+    controlling electrical synaptic connectivity, providing insights into how gap junctions 
+    are assembled and organized in neural circuits.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1523/ENEURO.0202-25.2025
+  tags:
+  - Gap junctions
+  - Electrical synapses
+  - Drosophila
+  - Synaptic development
+
+- id: ploscompbio:2025-ceballos
+  title: 'Interleaved single and bursting spiking resonance in neurons.'
+  authors:
+  - Cesar C Ceballos
+  - Norberto Chadly
+  - Eric Lowet
+  - Rodrigo F O Pena
+  publisher: PLoS Computational Biology
+  date: '2025'
+  link: https://doi.org/10.1371/journal.pcbi.1013126
+  term: PENA, RFO[Author] AND resonance[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This research reveals that neurons can exhibit distinct resonant properties 
+    in both single-spike and bursting modes. The findings demonstrate that neurons dynamically 
+    switch between different frequency-filtering regimes depending on their spiking pattern, 
+    providing new insights into how neural circuits encode and process information.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1371/journal.pcbi.1013126
+  tags:
+  - Resonance
+  - Burst firing
+  - Spike patterns
+  - Frequency filtering
+
+- id: biophys:2025-ceballos-dendritic
+  title: 'Dendritic synaptic integration modes under in vivo-like states.'
+  authors:
+  - Cesar C Ceballos
+  - Rodrigo F O Pena
+  publisher: Biophysical Journal
+  date: '2025'
+  link: https://doi.org/10.1016/j.bpj.2025.04.028
+  term: PENA, RFO[Author] AND dendritic integration[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This study investigates how dendrites integrate synaptic inputs under 
+    conditions that mimic in vivo neural activity. The research characterizes different 
+    modes of dendritic integration and how they depend on the state of neural activity, 
+    revealing dynamic changes in neuronal computation during behavior.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1016/j.bpj.2025.04.028
+  tags:
+  - Dendrites
+  - Synaptic integration
+  - Nonlinear dynamics
+  - In vivo states
+
+- id: neurocomputing:2025-ferreira
+  title: 'Consistent model selection for estimating functional interactions among stochastic 
+    neurons with variable-length memory.'
+  authors:
+  - Rodrigo F Ferreira
+  - Mariana E Pacola
+  - Victor G Schiavone
+  - Rodrigo F O Pena
+  publisher: Neurocomputing
+  date: '2025'
+  link: https://doi.org/10.1016/j.neucom.2025.130333
+  term: PENA, RFO[Author] AND model selection[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This work develops methods for selecting appropriate models to estimate 
+    functional connectivity between neurons with variable memory properties. The research 
+    provides statistical tools for identifying effective interactions in stochastic neural 
+    systems, improving the accuracy of functional connectivity estimates from neural recordings.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1016/j.neucom.2025.130333
+  tags:
+  - Functional connectivity
+  - Model selection
+  - Stochastic processes
+  - Neural interactions
+
+- id: cogsneuro:2025-pirola
+  title: 'Astrocytic signatures in neuronal activity: a machine learning-based identification approach.'
+  authors:
+  - João Paulo Pirola
+  - Paige DeForest
+  - Paulo R Protachevicz
+  - Lauren Fontenas
+  - Rodrigo F Ferreira
+  - Rodrigo F O Pena
+  publisher: Cognitive Neurodynamics
+  date: '2025'
+  link: https://doi.org/10.1007/s11571-025-10276-4
+  term: PENA, RFO[Author] AND astrocytes[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This study develops machine learning approaches to identify signatures 
+    of astrocytic influence on neuronal activity patterns. The research demonstrates how 
+    glial-neuronal interactions shape neural dynamics and provides tools for detecting 
+    these interactions in recorded neural data, highlighting the importance of considering 
+    glia in computational neuroscience.
+  buttons:
+  - type: website
+    link: https://doi.org/10.1007/s11571-025-10276-4
+  tags:
+  - Astrocytes
+  - Glial-neuronal interaction
+  - Machine learning
+  - Neural dynamics
+
+- id: pjs:2025-borges
+  title: 'Approaching brain levels of organization with computational neuroscience.'
+  authors:
+  - Fernando S Borges
+  - Rodrigo F O Pena
+  publisher: PJS
+  date: '2025'
+  link: https://doi.org/10.70389/PJS.100071
+  term: PENA, RFO[Author] AND levels of organization[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This perspective article discusses how computational neuroscience bridges 
+    different levels of biological organization, from molecular and cellular processes 
+    to network and systems-level phenomena. The work addresses the challenges and opportunities 
+    for developing multi-scale computational models that capture brain function across 
+    organizational levels.
+  buttons:
+  - type: website
+    link: https://doi.org/10.70389/PJS.100071
+  tags:
+  - Multi-scale modeling
+  - Computational neuroscience
+  - Systems neuroscience
+  - Network organization
+
+- id: brainsci:2024-izzi
+  title: 'Identifying effective connectivity between stochastic neurons with variable-length 
+    memory using a transfer entropy rate estimator.'
+  authors:
+  - João V R Izzi
+  - Rodrigo F Ferreira
+  - Vitor A Girardi
+  - Rodrigo F O Pena
+  publisher: Brain Sciences
+  date: '2024'
+  link: https://doi.org/10.3390/brainsci14050442
+  term: PENA, RFO[Author] AND transfer entropy[Title]
+  plugin: sources.py
+  file: sources_pena.yaml
+  type: paper
+  description: This work develops improved transfer entropy estimators for identifying 
+    effective connectivity in stochastic neural systems with variable memory properties. 
+    The research provides practical tools for analyzing information flow between neurons 
+    in complex neural networks, advancing methods for functional connectivity estimation 
+    from neural recordings.
+  buttons:
+  - type: website
+    link: https://doi.org/10.3390/brainsci14050442
+  tags:
+  - Transfer entropy
+  - Effective connectivity
+  - Information theory
+  - Neural interactions
 
 - id: pubmed:37645875
   title: 'The Roles of Potassium and Calcium Currents in the Bistable Firing Transition.'
