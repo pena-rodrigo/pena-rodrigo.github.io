@@ -1,6 +1,6 @@
 ---
 name: Rodrigo Pena
-image: images/rodrigo.jpg
+image: images/rodrigo_mpfi2.jpg
 role: pi
 aliases:
   - Pena, RFO
