@@ -301,12 +301,13 @@
   - Rodrigo F Ferreira
   - Rodrigo F O Pena
   publisher: Cognitive Neurodynamics
-  date: '2025-01-01'
+  date: '2025-06-11'
   link: https://doi.org/10.1007/s11571-025-10276-4
   term: PENA, RFO[Author] AND astrocytes[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/glia.png
   description: This study develops machine learning approaches to identify signatures 
     of astrocytic influence on neuronal activity patterns. The research demonstrates how 
     glial-neuronal interactions shape neural dynamics and provides tools for detecting 
