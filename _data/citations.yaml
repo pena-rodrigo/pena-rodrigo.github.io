@@ -216,12 +216,13 @@
   - Eric Lowet
   - Rodrigo F O Pena
   publisher: PLoS Computational Biology
-  date: '2025-06-01'
+  date: '2025-22-05'
   link: https://doi.org/10.1371/journal.pcbi.1013126
   term: PENA, RFO[Author] AND resonance[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/interleaved.png
   description: This research reveals that neurons can exhibit distinct resonant properties 
     in both single-spike and bursting modes. The findings demonstrate that neurons dynamically 
     switch between different frequency-filtering regimes depending on their spiking pattern, 
