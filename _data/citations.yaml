@@ -84,6 +84,7 @@
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/faurj.png
   description: This computational study investigates how deep brain stimulation can be 
     optimized to induce target neural activity patterns using simulation-based inference. 
     By leveraging detailed neural models and Bayesian inference techniques, the research 
