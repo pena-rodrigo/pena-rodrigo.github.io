@@ -189,12 +189,13 @@
   - Rodrigo F O Pena
   - Richard Murphey
   publisher: eNeuro
-  date: '2025-04-15'
+  date: '2025-10-12'
   link: https://doi.org/10.1523/ENEURO.0202-25.2025
   term: PENA, RFO[Author] AND gap junction[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/gf.png
   description: This study identifies the role of Frazzled/DCC in regulating gap junction 
     formation at the giant synapse in Drosophila. The findings reveal molecular mechanisms 
     controlling electrical synaptic connectivity, providing insights into how gap junctions 
