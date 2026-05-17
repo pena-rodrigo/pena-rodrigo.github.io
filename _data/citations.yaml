@@ -273,12 +273,13 @@
   - Victor G Schiavone
   - Rodrigo F O Pena
   publisher: Neurocomputing
-  date: '2025-01-01'
+  date: '2025-05-08'
   link: https://doi.org/10.1016/j.neucom.2025.130333
   term: PENA, RFO[Author] AND model selection[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/neurocomp.png
   description: This work develops methods for selecting appropriate models to estimate 
     functional connectivity between neurons with variable memory properties. The research 
     provides statistical tools for identifying effective interactions in stochastic neural 
