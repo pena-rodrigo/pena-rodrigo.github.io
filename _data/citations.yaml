@@ -217,7 +217,7 @@
   - Eric Lowet
   - Rodrigo F O Pena
   publisher: PLoS Computational Biology
-  date: '2025-22-05'
+  date: '2025-05-22'
   link: https://doi.org/10.1371/journal.pcbi.1013126
   term: PENA, RFO[Author] AND resonance[Title]
   plugin: sources.py
@@ -328,12 +328,13 @@
   - Fernando S Borges
   - Rodrigo F O Pena
   publisher: PJS
-  date: '2025-01-01'
+  date: '2025-03-28'
   link: https://doi.org/10.70389/PJS.100071
   term: PENA, RFO[Author] AND levels of organization[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/levels.png
   description: This perspective article discusses how computational neuroscience bridges 
     different levels of biological organization, from molecular and cellular processes 
     to network and systems-level phenomena. The work addresses the challenges and opportunities 
