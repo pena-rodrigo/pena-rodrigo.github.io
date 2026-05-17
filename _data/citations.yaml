@@ -102,7 +102,8 @@
   - Ty Roachford
   - Rodrigo F O Pena
   publisher: Cognitive Neurodynamics
-  date: '2026-01-01'
+  date: '2025-11-14'
+  image: ../images/cotrans.png
   link: https://doi.org/10.1007/s11571-025-10383-2
   term: PENA, RFO[Author] AND GABA-glutamate[Title]
   plugin: sources.py
