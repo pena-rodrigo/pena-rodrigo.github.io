@@ -130,12 +130,13 @@
   - Warren Mansell
   - Rodrigo F O Pena
   publisher: Foundations
-  date: '2025-10-15'
+  date: '2025-10-27'
   link: https://doi.org/10.3390/foundations5040035
   term: PENA, RFO[Author] AND Bayesian[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/pct_fep.png
   description: This theoretical analysis compares Perceptual Control Theory (PCT) with 
     the Free Energy Principle (FEP), two major frameworks for understanding biological 
     organization and adaptive behavior. The comparison reveals complementary insights and 
