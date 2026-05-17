@@ -15,7 +15,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Theta and gamma rhythmic coding through two spike output modes in the hippocampus during spatial navigation" style="rich" %}
+{% include citation.html lookup="The Drosophila connectome reveals Axo-Axonic Synapses on Descending Neurons" style="rich" %}
 
 {% include section.html %}
 
