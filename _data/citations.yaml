@@ -41,12 +41,13 @@
   - Rodrigo F O Pena
   - Davide Scaramuzza
   publisher: Nature
-  date: '2026-01-01'
+  date: '2026-01-28'
   link: https://doi.org/10.1038/s41586-025-09962-4
   term: PENA, RFO[Author] AND AI[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/llm.png
   description: This collaborative benchmark study evaluates the capabilities of advanced 
     artificial intelligence systems using expert-level academic questions across multiple 
     domains. The research provides a comprehensive assessment framework for understanding 
