@@ -12,12 +12,13 @@
   - Richard Murphey
   - Rodrigo F O Pena
   publisher: iScience
-  date: '2026-01-01'
+  date: '2026-05-15'
   link: https://doi.org/10.1016/j.isci.2026.115624
   term: PENA, RFO[Author] AND Drosophila[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/axo.png
   description: This study presents a comprehensive analysis of the Drosophila connectome, 
     identifying previously uncharacterized axo-axonic synapses on descending neurons. 
     These findings provide new insights into the circuit organization and computational 
