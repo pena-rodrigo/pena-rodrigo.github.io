@@ -248,6 +248,7 @@
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/dend.png
   description: This study investigates how dendrites integrate synaptic inputs under 
     conditions that mimic in vivo neural activity. The research characterizes different 
     modes of dendritic integration and how they depend on the state of neural activity, 
