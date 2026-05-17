@@ -162,12 +162,13 @@
   - Rodrigo F O Pena
   - Horacio G Rotstein
   publisher: Journal of Computational Neuroscience
-  date: '2025-01-01'
+  date: '2025-10-29'
   link: https://doi.org/10.1007/s10827-025-00908-3
   term: PENA, RFO[Author] AND temporal filters[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/filters.png
   description: This study characterizes how postsynaptic neurons implement frequency 
     filtering through the interaction of short-term synaptic plasticity and intrinsic 
     cellular properties. The research demonstrates that these mechanisms work in concert 
@@ -361,12 +362,13 @@
   - Vitor A Girardi
   - Rodrigo F O Pena
   publisher: Brain Sciences
-  date: '2024-05-15'
+  date: '2024-04-29'
   link: https://doi.org/10.3390/brainsci14050442
   term: PENA, RFO[Author] AND transfer entropy[Title]
   plugin: sources.py
   file: sources_pena.yaml
   type: paper
+  image: ../images/izzi.png
   description: This work develops improved transfer entropy estimators for identifying 
     effective connectivity in stochastic neural systems with variable memory properties. 
     The research provides practical tools for analyzing information flow between neurons 
