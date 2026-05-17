@@ -48,6 +48,7 @@
 - id: cogsneuro:2026-krubitski
   date: '2026'
   type: paper
+  image: ../images/cotrans.png
   description: This research investigates how synaptic summation mechanisms interact with GABA-glutamate co-transmission to shape information transfer in neural circuits. The findings reveal how dual neurotransmitter signaling and nonlinear summation dynamics contribute to the computational properties of neurons and network-level information processing.
   buttons:
     - type: website
