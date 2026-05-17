@@ -63,6 +63,7 @@
 - id: foundations:2025-roachford
   date: '2025'
   type: paper
+  image: ../images/pct_fep.png
   description: This theoretical analysis compares Perceptual Control Theory (PCT) with the Free Energy Principle (FEP), two major frameworks for understanding biological organization and adaptive behavior. The comparison reveals complementary insights and differences in how these theories explain neural and behavioral phenomena.
   buttons:
     - type: website
