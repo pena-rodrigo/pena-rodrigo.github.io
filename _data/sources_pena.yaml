@@ -1,6 +1,7 @@
 - id: isci:2026-ceballos-drosophila
   date: '2026'
   type: paper
+  image: ../images/axo.png
   description: This study presents a comprehensive analysis of the Drosophila connectome, identifying previously uncharacterized axo-axonic synapses on descending neurons. These findings provide new insights into the circuit organization and computational properties of descending motor pathways in neural circuits controlling behavior.
   buttons:
     - type: website
