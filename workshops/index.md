@@ -46,9 +46,7 @@ nav:
       >
 
     </div>
-
   </div>
-
 
 
 <div class="workshop-intro-grid">
