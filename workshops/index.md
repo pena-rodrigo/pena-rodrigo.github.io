@@ -17,6 +17,7 @@ nav:
     neuroscience, connectomics, protein structure, artificial intelligence, bioinformatics,
     simulation, quantum computing, and emerging computational methods for neuroscience research.
   </p>
+  </div>
 
   <div class="workshop-hero-gallery">
     <img src="/images/mg_0068_55284699116_o.jpg" alt="SCAN workshop photo 1" loading="lazy">
