@@ -16,9 +16,13 @@ nav:
 
 ### 2026 Lab Photo
 
-![2026 a Photo in the Lab](images/img_9965.jpg)
+<div style="text-align: center; margin-top: 1rem; margin-bottom: 1rem;">
+  <img src="/images/img_9965.jpg" alt="2026 Lab Photo" style="max-width: 100%; border-radius: 10px;">
+</div>
 
-*From left to right: Lindsey, Kimberly, Ty, Casey, Rodrigo, Juan, Cesar, and Julia.*
+<p style="text-align: center;">
+  <em>From left to right: Lindsey, Kimberly, Ty, Casey, Rodrigo, Juan, Cesar, and Julia.</em>
+</p>
 
 {% include section.html background="images/background.jpg" dark=true %}
 
