@@ -8,56 +8,82 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Workshops
 
-<div class="workshop-hero-copy">
-  <p class="workshop-eyebrow">Featured upcoming workshop</p>
-  <h2 id="scan-title">School for Computational Applications in Neuroscience 2026</h2>
-  <p class="workshop-acronym">SCAN 2026</p>
-  <p class="workshop-lead">
-    A focused training event by the Pena Lab at Florida Atlantic University, bringing together computational
-    neuroscience, connectomics, protein structure, artificial intelligence, bioinformatics,
-    simulation, quantum computing, and emerging computational methods for neuroscience research.
-  </p>
-  </div>
+<section class="workshop-hero-panel" aria-labelledby="scan-title">
 
-  <div class="workshop-hero-gallery">
-    <img src="/images/mg_0068_55284699116_o.jpg" alt="SCAN workshop photo 1" loading="lazy">
-    <img src="/images/mg_0047_55284931694_o.jpg" alt="SCAN workshop photo 2" loading="lazy">
-    <img src="/images/mg_0055_55284931534_o.jpg" alt="SCAN workshop photo 3" loading="lazy">
-  </div>
-</div>
+  <div class="workshop-hero-copy">
+    <p class="workshop-eyebrow">Featured upcoming workshop</p>
 
-    <div class="workshop-hero-card" aria-label="Workshop highlights">
-      <div class="workshop-affiliation-mark">
-        <img src="/images/fau.jpg" alt="Florida Atlantic University" loading="lazy">
-      </div>
-      <div>
-        <span class="workshop-card-label">Dates</span>
-        <strong>May 14–15, 2026</strong>
-      </div>
-      <div>
-        <span class="workshop-card-label">Location</span>
-        <a
-          class="workshop-map-link"
-          href="https://www.google.com/maps/place/Florida+Atlantic+University+-+John+D.+MacArthur+Campus+at+Jupiter/@26.889464,-80.1197961,17z/data=!4m10!1m2!2m1!1sjohn+macarthur+fau!3m6!1s0x88ded597114afe15:0x82f82c56c63a81d5!8m2!3d26.889464!4d-80.117003!15sChJqb2huIG1hY2FydGh1ciBmYXWSARFwdWJsaWNfdW5pdmVyc2l0eeABAA!16s%2Fg%2F11bv3864ql"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <strong>Florida Atlantic University</strong>
-        </a>
-      </div>
-      <div>
-        <span class="workshop-card-label">Host</span>
-        <a
-          class="workshop-map-link"
-          href="https://www.google.com/maps/place/Florida+Atlantic+University+-+John+D.+MacArthur+Campus+at+Jupiter/@26.889464,-80.1197961,17z/data=!4m10!1m2!2m1!1sjohn+macarthur+fau!3m6!1s0x88ded597114afe15:0x82f82c56c63a81d5!8m2!3d26.889464!4d-80.117003!15sChJqb2huIG1hY2FydGh1ciBmYXWSARFwdWJsaWNfdW5pdmVyc2l0eeABAA!16s%2Fg%2F11bv3864ql"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <strong>Pena Lab · Stiles-Nicholson Brain Institute · Computational Neuroscience Lab</strong>
-        </a>
-      </div>
+    <h2 id="scan-title">
+      School for Computational Applications in Neuroscience 2026
+    </h2>
+
+    <p class="workshop-acronym">SCAN 2026</p>
+
+    <p class="workshop-lead">
+      A focused training event by the Pena Lab at Florida Atlantic University,
+      bringing together computational neuroscience, connectomics, protein
+      structure, artificial intelligence, bioinformatics, simulation,
+      quantum computing, and emerging computational methods for neuroscience research.
+    </p>
+
+    <div class="workshop-hero-gallery">
+      <img src="/images/mg_0068_55284699116_o.jpg"
+           alt="SCAN workshop photo 1"
+           loading="lazy">
+
+      <img src="/images/mg_0047_55284931694_o.jpg"
+           alt="SCAN workshop photo 2"
+           loading="lazy">
+
+      <img src="/images/mg_0055_55284931534_o.jpg"
+           alt="SCAN workshop photo 3"
+           loading="lazy">
     </div>
-  </section>
+  </div>
+
+  <div class="workshop-hero-card" aria-label="Workshop highlights">
+    <div class="workshop-affiliation-mark">
+      <img src="/images/fau.jpg"
+           alt="Florida Atlantic University"
+           loading="lazy">
+    </div>
+
+    <div>
+      <span class="workshop-card-label">Dates</span>
+      <strong>May 14–15, 2026</strong>
+    </div>
+
+    <div>
+      <span class="workshop-card-label">Location</span>
+
+      <a
+        class="workshop-map-link"
+        href="https://www.google.com/maps/place/Florida+Atlantic+University+-+John+D.+MacArthur+Campus+at+Jupiter/@26.889464,-80.1197961,17z/data=!4m10!1m2!2m1!1sjohn+macarthur+fau!3m6!1s0x88ded597114afe15:0x82f82c56c63a81d5!8m2!3d26.889464!4d-80.117003!15sChJqb2huIG1hY2FydGh1ciBmYXWSARFwdWJsaWNfdW5pdmVyc2l0eeABAA!16s%2Fg%2F11bv3864ql"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <strong>Florida Atlantic University</strong>
+      </a>
+    </div>
+
+    <div>
+      <span class="workshop-card-label">Host</span>
+
+      <a
+        class="workshop-map-link"
+        href="https://www.google.com/maps/place/Florida+Atlantic+University+-+John+D.+MacArthur+Campus+at+Jupiter/@26.889464,-80.1197961,17z/data=!4m10!1m2!2m1!1sjohn+macarthur+fau!3m6!1s0x88ded597114afe15:0x82f82c56c63a81d5!8m2!3d26.889464!4d-80.117003!15sChJqb2huIG1hY2FydGh1ciBmYXWSARFwdWJsaWNfdW5pdmVyc2l0eeABAA!16s%2Fg%2F11bv3864ql"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <strong>
+          Pena Lab · Stiles-Nicholson Brain Institute · Computational Neuroscience Lab
+        </strong>
+      </a>
+    </div>
+
+  </div>
+
+</section>
 
   <div class="workshop-intro-grid">
     <article>
