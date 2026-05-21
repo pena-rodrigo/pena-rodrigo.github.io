@@ -8,18 +8,22 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-chalkboard-user" %}Workshops
 
-<div class="workshops-page">
-  <section class="workshop-hero-panel" aria-labelledby="scan-title">
-    <div class="workshop-hero-copy">
-      <p class="workshop-eyebrow">Featured upcoming workshop</p>
-      <h2 id="scan-title">School for Computational Applications in Neuroscience 2026</h2>
-      <p class="workshop-acronym">SCAN 2026</p>
-      <p class="workshop-lead">
-        A focused training event by the Pena Lab at Florida Atlantic University, bringing together computational
-        neuroscience, connectomics, protein structure, artificial intelligence, bioinformatics,
-        simulation, quantum computing, and emerging computational methods for neuroscience research.
-      </p>
-    </div>
+<div class="workshop-hero-copy">
+  <p class="workshop-eyebrow">Featured upcoming workshop</p>
+  <h2 id="scan-title">School for Computational Applications in Neuroscience 2026</h2>
+  <p class="workshop-acronym">SCAN 2026</p>
+  <p class="workshop-lead">
+    A focused training event by the Pena Lab at Florida Atlantic University, bringing together computational
+    neuroscience, connectomics, protein structure, artificial intelligence, bioinformatics,
+    simulation, quantum computing, and emerging computational methods for neuroscience research.
+  </p>
+
+  <div class="workshop-hero-gallery">
+    <img src="/images/mg_0068_55284699116_o.jpg" alt="SCAN workshop photo 1" loading="lazy">
+    <img src="/images/mg_0047_55284931694_o.jpg" alt="SCAN workshop photo 2" loading="lazy">
+    <img src="/images/mg_0055_55284931534_o.jpg" alt="SCAN workshop photo 3" loading="lazy">
+  </div>
+</div>
 
     <div class="workshop-hero-card" aria-label="Workshop highlights">
       <div class="workshop-affiliation-mark">
