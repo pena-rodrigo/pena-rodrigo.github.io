@@ -24,8 +24,10 @@ nav:
   <em>From left to right: Lindsey, Kimberly, Ty, Casey, Rodrigo, Juan, Cesar, and Julia.</em>
 </p>
 
+### 2025 Lab Photo
+
 <div style="text-align: center; margin-top: 1rem; margin-bottom: 1rem;">
-  <img src="/images/lab_photo.jpg" alt="2025 Lab Photo" style="max-width: 60%; border-radius: 7px;">
+  <img src="/images/lab_photo_cropped.jpg" alt="2025 Lab Photo" style="max-width: 60%; border-radius: 7px;">
 </div>
 
 <p style="text-align: center;">
