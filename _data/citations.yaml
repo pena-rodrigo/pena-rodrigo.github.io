@@ -5,11 +5,11 @@
   - Cesar Ceballos
   - Juan Lopez
   - Ty Roachford
-  - Diana Sanchez
-  - Sebastián Jara
-  - Kali Robbins
-  - Chelsie L Spencer
-  - Richard Murphey
+  - Daniel Sanchez
+  - Sabrina Jara
+  - Kelli Robbins
+  - Casey Spencer
+  - Rodney Murphey
   - Rodrigo F O Pena
   publisher: iScience
   date: '2026-05-15'
@@ -158,8 +158,8 @@
     plasticity and cellular time scales.'
   authors:
   - Yugarshi Mondal
-  - Victoria B Benito
-  - Rodrigo F O Pena
+  - V B Benito
+  - R F O Pena
   - Horacio G Rotstein
   publisher: Journal of Computational Neuroscience
   date: '2025-10-29'
@@ -187,10 +187,10 @@
   title: 'Frazzled/DCC regulates gap junction formation at a Drosophila giant synapse.'
   authors:
   - Juan Lopez
-  - Jennifer Boerner
-  - Kali Robbins
+  - Jana Boerner
+  - Kelli Robbins
   - Rodrigo F O Pena
-  - Richard Murphey
+  - Rodney Murphey
   publisher: eNeuro
   date: '2025-10-12'
   link: https://doi.org/10.1523/ENEURO.0202-25.2025
@@ -216,7 +216,7 @@
   title: 'Interleaved single and bursting spiking resonance in neurons.'
   authors:
   - Cesar C Ceballos
-  - Norberto Chadly
+  - N Chadly
   - Eric Lowet
   - Rodrigo F O Pena
   publisher: PLoS Computational Biology
@@ -270,8 +270,8 @@
   title: 'Consistent model selection for estimating functional interactions among stochastic 
     neurons with variable-length memory.'
   authors:
-  - Rodrigo F Ferreira
-  - Mariana E Pacola
+  - Ricardo F Ferreira
+  - M E Pacola
   - Victor G Schiavone
   - Rodrigo F O Pena
   publisher: Neurocomputing
@@ -301,8 +301,8 @@
   - João Paulo Pirola
   - Paige DeForest
   - Paulo R Protachevicz
-  - Lauren Fontenas
-  - Rodrigo F Ferreira
+  - Laura Fontenas
+  - Ricardo F Ferreira
   - Rodrigo F O Pena
   publisher: Cognitive Neurodynamics
   date: '2025-06-11'
